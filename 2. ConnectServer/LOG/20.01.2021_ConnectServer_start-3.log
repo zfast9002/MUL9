@@ -1,0 +1,17 @@
+[20:49:29] Initializing...
+[20:49:29] Connect Server version: 6.0.0.0 Compiled at: Oct 23 2017 01:47:56
+[20:49:29] [Server Data] Loaded Server(s) info CODE: (0), NAME: (Regular), IP: (186.182.173.58), PORT: (56900), VISIBLE: (1), INDEX: (0)
+[20:49:29] [Server Data] Loaded Server(s) info CODE: (14), NAME: (Siege), IP: (186.182.173.58), PORT: (56914), VISIBLE: (0), INDEX: (1)
+[20:49:29] [NOTICE]: IOCP Thread Handles set to 16
+[20:51:58] Connection Accept: 179.9.140.139
+[20:51:58] [Server] No active Game Servers found - disconnect: (Index: [0])
+[20:51:58] WSARecv() failed with error 10038
+[20:51:58] Disconnected: 179.9.140.139 (0)
+[20:51:58] WSASend(673) failed with error 10038 179.9.140.139 
+[20:51:58] error-L1 : CloseClient connect error
+[20:53:47] Connection Accept: 186.182.173.58
+[20:53:47] [Server] No active Game Servers found - disconnect: (Index: [0])
+[20:53:47] WSARecv() failed with error 10038
+[20:53:47] Disconnected: 186.182.173.58 (0)
+[20:53:47] WSASend(673) failed with error 10038 186.182.173.58 
+[20:53:47] error-L1 : CloseClient connect error

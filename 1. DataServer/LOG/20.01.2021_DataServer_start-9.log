@@ -1,0 +1,24 @@
+[20:59:59] Initializing...
+[20:59:59] DataServer(e) version: 6.0.0.0 Compiled at: Oct 23 2017 01:51:42
+[20:59:59] ./IGC_AllowedIPList.xml File Loaded successfuly
+[20:59:59] IP Address 127.0.0.1 valid, no resolving required
+[21:01:49] [SUCCESS] - DATA SERVER CONNECT MSSQL SUCCESS (COUNT: 23)
+[21:01:49] [DataServer] ItemCount: 0
+[21:01:49] [SUCCESS] - JOIN SERVER CONNECT MSSQL SUCCESS
+[21:01:49] [SUCCESS] - EXDATASERVER CONNECT MSSQL SUCCESS
+[21:01:49] [MuOnlineDB] GuildData Loaded in 16 msec
+[21:01:49] [SUCCESS] - FRIEND DB CONNECT MSSQL SUCCESS
+[21:01:49] [Gens System] Initializing Gens...
+[21:01:49] [ GensRanking ] - ..\\IGCData\\Gens\\IGC_GensRanking.dat file is Loaded
+[21:01:49] [Gens System] Current Month: -1
+[21:01:49] [Gens System] Ranking Making [START]
+[21:01:49] [Gens System] (D:0.000000) VS (V:0.000000)
+[21:01:49] [Gens System] Ranking Making [END]
+[21:01:49] Current Global Connections Limit (HWiD) per ServerGroup: 3
+[21:01:49] [IOCP] Using normal functionality
+[21:01:49] [IOCP] ST_JOINSERVER Start! PORT [ 56970 ]
+[21:01:49] [WARNING]: IOCP Thread Handles set to 16
+[21:01:49] [IOCP] ST_DATASERVER Start! PORT [ 56960 ]
+[21:01:49] [WARNING]: IOCP Thread Handles set to 16
+[21:01:49] [IOCP] ST_EXDATASERVER Start! PORT [ 56906 ]
+[21:01:49] [WARNING]: IOCP Thread Handles set to 16

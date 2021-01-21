@@ -1,0 +1,131 @@
+[21:02:09] Initializing...
+[21:02:09] Connect Server version: 6.0.0.0 Compiled at: Oct 23 2017 01:47:56
+[21:02:09] [Server Data] Loaded Server(s) info CODE: (0), NAME: (Regular), IP: (186.182.173.58), PORT: (56900), VISIBLE: (1), INDEX: (0)
+[21:02:09] [Server Data] Loaded Server(s) info CODE: (14), NAME: (Siege), IP: (186.182.173.58), PORT: (56914), VISIBLE: (0), INDEX: (1)
+[21:02:09] [NOTICE]: IOCP Thread Handles set to 16
+[21:02:25] Connection Accept: 186.182.173.58
+[21:02:25] [Server] No active Game Servers found - disconnect: (Index: [0])
+[21:02:25] WSARecv() failed with error 10038
+[21:02:25] Disconnected: 186.182.173.58 (0)
+[21:02:25] WSASend(673) failed with error 10038 186.182.173.58 
+[21:02:25] error-L1 : CloseClient connect error
+[21:02:54] Connection Accept: 186.182.173.58
+[21:02:54] [Server] No active Game Servers found - disconnect: (Index: [0])
+[21:02:54] WSARecv() failed with error 10038
+[21:02:54] Disconnected: 186.182.173.58 (0)
+[21:02:54] WSASend(673) failed with error 10038 186.182.173.58 
+[21:02:54] error-L1 : CloseClient connect error
+[21:03:23] Connection Accept: 186.182.173.58
+[21:03:23] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:03:25] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:03:25] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [0] / Max: [200])
+[21:03:25] Disconnected: 186.182.173.58 (0)
+[21:05:51] Connection Accept: 186.182.173.58
+[21:05:51] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:05:52] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:05:53] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [0] / Max: [200])
+[21:05:53] Disconnected: 186.182.173.58 (0)
+[21:12:12] Connection Accept: 186.182.173.58
+[21:12:12] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:12:13] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:12:13] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [0] / Max: [200])
+[21:12:13] Disconnected: 186.182.173.58 (0)
+[21:16:47] Connection Accept: 186.182.173.58
+[21:16:47] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:16:48] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:16:48] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [0] / Max: [200])
+[21:16:48] Disconnected: 186.182.173.58 (0)
+[21:17:08] Connection Accept: 186.182.173.58
+[21:17:08] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:17:12] Disconnected: 186.182.173.58 (0)
+[21:18:59] Connection Accept: 186.182.173.58
+[21:18:59] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:18:59] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:19:00] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [0] / Max: [200])
+[21:19:00] Disconnected: 186.182.173.58 (0)
+[21:23:44] Connection Accept: 186.182.173.58
+[21:23:44] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:23:45] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:23:46] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [0] / Max: [200])
+[21:23:46] Disconnected: 186.182.173.58 (0)
+[21:26:25] Connection Accept: 186.182.173.58
+[21:26:25] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:26:26] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:26:27] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [0] / Max: [200])
+[21:26:27] Disconnected: 186.182.173.58 (0)
+[21:29:16] Connection Accept: 190.51.165.157
+[21:29:16] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:29:18] Connection Accept: 186.19.118.155
+[21:29:18] [Server] Sent Server List COUNT: [1] (Index: [1])
+[21:29:20] [Server] Sent Server List COUNT: [1] (Index: [1])
+[21:29:22] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [0] / Max: [200])
+[21:29:22] Disconnected: 186.19.118.155 (1)
+[21:29:25] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:29:26] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [1] / Max: [200])
+[21:29:26] Disconnected: 190.51.165.157 (0)
+[21:31:03] Connection Accept: 186.19.118.155
+[21:31:03] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:31:20] Connection Accept: 190.51.165.157
+[21:31:20] [Server] Sent Server List COUNT: [1] (Index: [1])
+[21:31:22] [Server] Sent Server List COUNT: [1] (Index: [1])
+[21:31:22] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [0] / Max: [200])
+[21:31:22] Disconnected: 190.51.165.157 (1)
+[21:31:49] Connection Accept: 186.19.118.155
+[21:31:49] [Server] Sent Server List COUNT: [1] (Index: [1])
+[21:31:50] Disconnected: 186.19.118.155 (0)
+[21:31:52] [Server] Sent Server List COUNT: [1] (Index: [1])
+[21:31:53] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [0] / Max: [200])
+[21:31:53] Disconnected: 186.19.118.155 (1)
+[21:32:15] Connection Accept: 186.19.118.155
+[21:32:15] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:32:16] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:32:18] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [0] / Max: [200])
+[21:32:18] Disconnected: 186.19.118.155 (0)
+[21:44:22] Connection Accept: 181.13.118.12
+[21:44:23] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:44:25] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:44:28] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [0] / Max: [200])
+[21:44:28] Disconnected: 181.13.118.12 (0)
+[21:55:32] Connection Accept: 186.182.173.58
+[21:55:32] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:55:33] Disconnected: 186.182.173.58 (0)
+[21:55:58] Connection Accept: 186.182.173.58
+[21:55:58] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:56:12] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:56:14] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [0] / Max: [200])
+[21:56:14] Disconnected: 186.182.173.58 (0)
+[21:56:54] Connection Accept: 186.182.173.58
+[21:56:54] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:56:55] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:56:56] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [0] / Max: [200])
+[21:56:56] Disconnected: 186.182.173.58 (0)
+[22:02:39] Connection Accept: 186.19.118.155
+[22:02:39] [Server] Sent Server List COUNT: [1] (Index: [0])
+[22:02:41] [Server] Sent Server List COUNT: [1] (Index: [0])
+[22:02:42] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [1] / Max: [200])
+[22:02:42] Disconnected: 186.19.118.155 (0)
+[22:06:33] Connection Accept: 181.13.118.12
+[22:06:33] [Server] Sent Server List COUNT: [1] (Index: [0])
+[22:06:38] [Server] Sent Server List COUNT: [1] (Index: [0])
+[22:06:39] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [1] / Max: [200])
+[22:06:39] Disconnected: 181.13.118.12 (0)
+[22:07:32] Connection Accept: 181.44.131.125
+[22:07:32] [Server] Sent Server List COUNT: [1] (Index: [0])
+[22:07:47] [Server] Sent Server List COUNT: [1] (Index: [0])
+[22:07:48] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [2] / Max: [200])
+[22:07:48] Disconnected: 181.44.131.125 (0)
+[22:09:20] Connection Accept: 186.19.118.155
+[22:09:20] [Server] Sent Server List COUNT: [1] (Index: [0])
+[22:09:22] Connection Accept: 181.13.118.12
+[22:09:22] [Server] Sent Server List COUNT: [1] (Index: [1])
+[22:09:24] [Server] Sent Server List COUNT: [1] (Index: [1])
+[22:09:25] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [2] / Max: [200])
+[22:09:25] Disconnected: 181.13.118.12 (1)
+[22:09:28] [Server] Sent Server List COUNT: [1] (Index: [0])
+[22:09:36] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [2] / Max: [200])
+[22:09:36] Disconnected: 186.19.118.155 (0)
+[22:10:11] Connection Accept: 181.44.131.125
+[22:10:11] [Server] Sent Server List COUNT: [1] (Index: [0])
+[22:10:19] [Server] Sent Server List COUNT: [1] (Index: [0])
+[22:10:20] [Server] Connecting to Server: Regular (IP: [186.182.173.58] PORT: [56900]) (Players: [3] / Max: [200])
+[22:10:20] Disconnected: 181.44.131.125 (0)
