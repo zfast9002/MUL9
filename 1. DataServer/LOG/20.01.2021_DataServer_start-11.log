@@ -1,0 +1,158 @@
+[22:54:21] Initializing...
+[22:54:21] DataServer(e) version: 6.0.0.0 Compiled at: Oct 23 2017 01:51:42
+[22:54:21] ./IGC_AllowedIPList.xml File Loaded successfuly
+[22:54:21] IP Address 127.0.0.1 valid, no resolving required
+[22:54:21] [SUCCESS] - DATA SERVER CONNECT MSSQL SUCCESS (COUNT: 23)
+[22:54:21] [DataServer] ItemCount: 3007
+[22:54:21] [SUCCESS] - JOIN SERVER CONNECT MSSQL SUCCESS
+[22:54:21] [SUCCESS] - EXDATASERVER CONNECT MSSQL SUCCESS
+[22:54:21] [MuOnlineDB] GuildData Loaded in 16 msec
+[22:54:21] [SUCCESS] - FRIEND DB CONNECT MSSQL SUCCESS
+[22:54:21] [Gens System] Initializing Gens...
+[22:54:21] [ GensRanking ] - ..\\IGCData\\Gens\\IGC_GensRanking.dat file is Loaded
+[22:54:21] [Gens System] Current Month: 1
+[22:54:21] [Gens System] Ranking Making [START]
+[22:54:21] [Gens System] (D:0.000000) VS (V:0.000000)
+[22:54:21] [Gens System] Ranking Making [END]
+[22:54:21] Current Global Connections Limit (HWiD) per ServerGroup: 3
+[22:54:21] [IOCP] Using normal functionality
+[22:54:21] [IOCP] ST_JOINSERVER Start! PORT [ 56970 ]
+[22:54:21] [WARNING]: IOCP Thread Handles set to 16
+[22:54:22] [IOCP] ST_DATASERVER Start! PORT [ 56960 ]
+[22:54:22] [WARNING]: IOCP Thread Handles set to 16
+[22:54:22] [IOCP] ST_EXDATASERVER Start! PORT [ 56906 ]
+[22:54:22] [WARNING]: IOCP Thread Handles set to 16
+[22:54:26] [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 1
+[22:54:26] [Server Engine] Connect : Index : 1 - IP : 127.0.0.1 - ServerType : 2
+[22:54:26] [Server Engine] Connect : Index : 2 - IP : 127.0.0.1 - ServerType : 3
+[22:54:26] [Join Server] GameServer connected RegularSrv PORT : 56900 CODE : 0 VIP : 0 HWIDCount : 3
+[22:54:26] [ExDB] GameServer with ServerCode[0] connected.
+[22:54:26] [DataServer] GameServer(0)(1) connect
+[22:54:36] [JoinServer] Add User (fast) (ServerCode:0) (ServerGroup:1) (Index:12000) (IP:186.182.173.58) (HWID:1051-4E4B-5E3C-9DA0-9357)
+[22:54:38] [JoinServer] Add User (XCZBO) (ServerCode:0) (ServerGroup:1) (Index:12001) (IP:186.19.118.155) (HWID:5C58-F257-9696-1845-0130)
+[22:54:38] [fast] - characters: [Tomi][test][][][]
+[22:54:38] [fast] - Account Data: [SU:1][RF:1][Expanded WH:1]
+[22:54:40] [XCZBO] - characters: [XCZBO][][][][]
+[22:54:40] [XCZBO] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[22:54:40] [Friend List Request] Name[Tomi].
+[22:54:40] [Friend List Send] Name[Tomi].
+[22:54:40] [Friend List Send] Friend Count[0].
+[22:54:40] [Mail List Request] Name[Tomi].
+[22:54:40] [Mail List Send] Name: [Tomi].
+[22:54:40] [Mail List Send] Mail Count: 0.
+[22:54:40] [Gens System] [Tomi] Get Data from DB [I:0] [P:0] [C:0] [RANK:2]
+[22:54:40] [Guild Member Info Request] Member [Tomi].
+[22:54:40] [Send Guild Member Info] No info returned from DB.
+[22:54:42] [Friend List Request] Name[XCZBO].
+[22:54:42] [Friend List Send] Name[XCZBO].
+[22:54:42] [Friend List Send] Friend Count[0].
+[22:54:42] [Mail List Request] Name[XCZBO].
+[22:54:42] [Mail List Send] Name: [XCZBO].
+[22:54:42] [Mail List Send] Mail Count: 0.
+[22:54:42] [Guild Member Info Request] Member [XCZBO].
+[22:54:42] [Send Guild Member Info] No info returned from DB.
+[22:54:42] [JoinServer] Add User (Idk288) (ServerCode:0) (ServerGroup:1) (Index:12002) (IP:181.13.118.12) (HWID:5C76-4E4B-155F-2474-375F)
+[22:54:44] [Idk288] - characters: [Conqueror][][][][]
+[22:54:44] [Idk288] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[22:54:46] [Friend List Request] Name[Conqueror].
+[22:54:46] [Friend List Send] Name[Conqueror].
+[22:54:46] [Friend List Send] Friend Count[0].
+[22:54:46] [Mail List Request] Name[Conqueror].
+[22:54:46] [Mail List Send] Name: [Conqueror].
+[22:54:46] [Mail List Send] Mail Count: 0.
+[22:54:46] [Guild Member Info Request] Member [Conqueror].
+[22:54:46] [Send Guild Member Info] No info returned from DB.
+[23:07:30] [MeMuOnline] Account already connected ID : XCZBO
+[23:07:36] [JoinServer] Delete User (XCZBO)
+[23:07:38] [JoinServer] Add User (XCZBO) (ServerCode:0) (ServerGroup:1) (Index:12004) (IP:186.19.118.155) (HWID:5C58-F257-9696-1845-0130)
+[23:07:40] [XCZBO] - characters: [XCZBO][][][][]
+[23:07:40] [XCZBO] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[23:07:42] [Friend List Request] Name[XCZBO].
+[23:07:42] [Friend List Send] Name[XCZBO].
+[23:07:42] [Friend List Send] Friend Count[0].
+[23:07:42] [Mail List Request] Name[XCZBO].
+[23:07:42] [Mail List Send] Name: [XCZBO].
+[23:07:42] [Mail List Send] Mail Count: 0.
+[23:07:42] [Guild Member Info Request] Member [XCZBO].
+[23:07:42] [Send Guild Member Info] No info returned from DB.
+[23:08:30] [JoinServer] Delete User (XCZBO)
+[23:17:30] [fast] - characters: [Tomi][test][][][]
+[23:17:30] [fast] - Account Data: [SU:1][RF:1][Expanded WH:1]
+[23:17:47] [Friend List Request] Name[Tomi].
+[23:17:47] [Friend List Send] Name[Tomi].
+[23:17:47] [Friend List Send] Friend Count[0].
+[23:17:47] [Mail List Request] Name[Tomi].
+[23:17:47] [Mail List Send] Name: [Tomi].
+[23:17:47] [Mail List Send] Mail Count: 0.
+[23:17:47] [Gens System] [Tomi] Get Data from DB [I:0] [P:0] [C:0] [RANK:2]
+[23:17:47] [Guild Member Info Request] Member [Tomi].
+[23:17:47] [Send Guild Member Info] No info returned from DB.
+[23:22:47] [JoinServer] Delete User (Idk288)
+[23:23:29] [JoinServer] Delete User (fast)
+[23:26:42] [JoinServer] Add User (fast) (ServerCode:0) (ServerGroup:1) (Index:12005) (IP:186.182.173.58) (HWID:1051-4E4B-5E3C-9DA0-9357)
+[23:26:42] [fast] - characters: [Tomi][test][][][]
+[23:26:42] [fast] - Account Data: [SU:1][RF:1][Expanded WH:1]
+[23:30:42] [JoinServer] Delete User (fast)
+[23:31:14] [JoinServer] Add User (fast) (ServerCode:0) (ServerGroup:1) (Index:12006) (IP:186.182.173.58) (HWID:1051-4E4B-5E3C-9DA0-9357)
+[23:31:14] [fast] - characters: [Tomi][test][][][]
+[23:31:14] [fast] - Account Data: [SU:1][RF:1][Expanded WH:1]
+[23:31:15] [Friend List Request] Name[Tomi].
+[23:31:15] [Friend List Send] Name[Tomi].
+[23:31:15] [Friend List Send] Friend Count[0].
+[23:31:15] [Mail List Request] Name[Tomi].
+[23:31:15] [Mail List Send] Name: [Tomi].
+[23:31:15] [Mail List Send] Mail Count: 0.
+[23:31:15] [Gens System] [Tomi] Get Data from DB [I:0] [P:0] [C:0] [RANK:2]
+[23:31:15] [Guild Member Info Request] Member [Tomi].
+[23:31:15] [Send Guild Member Info] No info returned from DB.
+[23:31:51] [JoinServer] Delete User (fast)
+[23:32:03] [JoinServer] Add User (fast) (ServerCode:0) (ServerGroup:1) (Index:12007) (IP:186.182.173.58) (HWID:1051-4E4B-5E3C-9DA0-9357)
+[23:32:03] [fast] - characters: [Tomi][test][][][]
+[23:32:03] [fast] - Account Data: [SU:1][RF:1][Expanded WH:1]
+[23:32:06] [Friend List Request] Name[Tomi].
+[23:32:06] [Friend List Send] Name[Tomi].
+[23:32:06] [Friend List Send] Friend Count[0].
+[23:32:06] [Mail List Request] Name[Tomi].
+[23:32:06] [Mail List Send] Name: [Tomi].
+[23:32:06] [Mail List Send] Mail Count: 0.
+[23:32:06] [Gens System] [Tomi] Get Data from DB [I:0] [P:0] [C:0] [RANK:2]
+[23:32:06] [Guild Member Info Request] Member [Tomi].
+[23:32:06] [Send Guild Member Info] No info returned from DB.
+[23:34:06] [JoinServer] Add User (XCZBO) (ServerCode:0) (ServerGroup:1) (Index:12008) (IP:186.19.118.155) (HWID:5C58-F257-9696-1845-0130)
+[23:34:06] [XCZBO] - characters: [XCZBO][][][][]
+[23:34:06] [XCZBO] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[23:34:17] [Friend List Request] Name[XCZBO].
+[23:34:17] [Friend List Send] Name[XCZBO].
+[23:34:17] [Friend List Send] Friend Count[0].
+[23:34:17] [Mail List Request] Name[XCZBO].
+[23:34:17] [Mail List Send] Name: [XCZBO].
+[23:34:17] [Mail List Send] Mail Count: 0.
+[23:34:17] [Guild Member Info Request] Member [XCZBO].
+[23:34:17] [Send Guild Member Info] No info returned from DB.
+[23:44:02] [MeMuOnline] Account already connected ID : XCZBO
+[23:44:12] [MeMuOnline] Account already connected ID : XCZBO
+[23:44:13] [JoinServer] Delete User (XCZBO)
+[23:45:11] [JoinServer] Add User (XCZBO) (ServerCode:0) (ServerGroup:1) (Index:12011) (IP:186.19.118.155) (HWID:5C58-F257-9696-1845-0130)
+[23:45:11] [XCZBO] - characters: [XCZBO][][][][]
+[23:45:11] [XCZBO] - Account Data: [SU:1][RF:1][Expanded WH:0]
+[23:45:21] [Friend List Request] Name[XCZBO].
+[23:45:21] [Friend List Send] Name[XCZBO].
+[23:45:21] [Friend List Send] Friend Count[0].
+[23:45:21] [Mail List Request] Name[XCZBO].
+[23:45:21] [Mail List Send] Name: [XCZBO].
+[23:45:21] [Mail List Send] Mail Count: 0.
+[23:45:21] [Guild Member Info Request] Member [XCZBO].
+[23:45:21] [Send Guild Member Info] No info returned from DB.
+[23:48:42] [BLOOD] SERVER:1-1, BRIDGE:7, ACCNT:fast, CHAR:Tomi, CLASS:1, SCORE:-300, LEFTTIME:0, ALIVEPARTY:0
+[23:48:42] [SQL Error] Error executing: EXEC SP_POINT_ACCM_BC_5TH '1', '7', 'fast', 'Tomi', '1', '-300', '0', '0'
+[23:48:42] SQLSTATE: 22007, Diagnosis: [Microsoft][ODBC SQL Server Driver][SQL Server]La conversión del tipo de datos varchar en smalldatetime produjo un valor fuera de intervalo.
+[23:48:42] SQLSTATE: 23000, Diagnosis: [Microsoft][ODBC SQL Server Driver][SQL Server]No se puede insertar el valor NULL en la columna 'RegDate', tabla 'Ranking.dbo.EVENT_INFO_BC_5TH'. La columna no admite valores NULL. Error de INSERT.
+[23:48:42] SQLSTATE: 01000, Diagnosis: [Microsoft][ODBC SQL Server Driver][SQL Server]Se terminó la instrucción.
+[23:52:58] [JoinServer] GJReqMapSvrMove() -> ServerIndex = -1 ( cur:0 | dest: 14) Account:(fast)
+[23:53:13] [JoinServer] GJReqMapSvrMove() -> ServerIndex = -1 ( cur:0 | dest: 14) Account:(fast)
+[23:53:29] [JoinServer] GJReqMapSvrMove() -> ServerIndex = -1 ( cur:0 | dest: 14) Account:(fast)
+[23:54:57] [JoinServer] Delete User (XCZBO)
+[23:55:42] [JoinServer] Delete User (fast)
+[23:56:07] Connection Closed, dwIoSize == 0 (Index:0)
+[23:56:07] Connection Closed, dwIoSize == 0 (Index:1)
+[23:56:07] Connection Closed, dwIoSize == 0 (Index:2)

@@ -2874,3 +2874,1278 @@
 [22:16:00] Item Drop [0][191][130] : serial:53 [Apple][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
 [22:16:01] Item Create Request [Spider] [0][192][128] : [Rena][3][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
 [22:16:01] Item Drop [0][192][128] : serial:54 [Rena][3][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:16:11] Item has disappeared (Apple:7168 / Level: 0 / Skill: 0 / Serial: 53)
+[22:16:12] [Single] Experience : Map[Lorencia]-(187,141) [XCZBO][XCZBO](25) Experience: 190080 + 10000  MonsterClass : 3
+[22:16:12] [Party] Experience : Map[Lorencia]-(201,140) [forgoten][dios](16) Experience: 54000 + 16000  MonsterClass : 3
+[22:16:12] Level Up [forgoten][dios][17]
+[22:16:12] Item has disappeared (Rena:7189 / Level: 3 / Skill: 0 / Serial: 54)
+[22:16:13] Item Create Request [Spider] [0][201][141] : [Apple][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:16:13] Item Create Request [Spider] [0][201][141] : [Short Bow][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:16:13] Item Drop [0][201][141] : serial:55 [Apple][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:16:13] Item Drop [0][201][141] : serial:56 [Short Bow][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:16:16] [Party] Experience : Map[Lorencia]-(203,139) [forgoten][dios](17) Experience: 64000 + 38000  MonsterClass : 2
+[22:16:16] Level Up [forgoten][dios][18]
+[22:16:18] Item Create Request [Budge Drag] [0][203][140] : [Apple][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:16:18] Item Create Request [Budge Drag] [0][203][140] : [Leather Gloves][0][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:16:18] Item Drop [0][203][140] : serial:57 [Apple][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:16:18] Item Drop [0][203][140] : serial:58 [Leather Gloves][0][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:16:18] [Party] Experience : Map[Lorencia]-(203,139) [forgoten][dios](18) Experience: 75140 + 36000  MonsterClass : 2
+[22:16:18] Level Up [forgoten][dios][19]
+[22:16:20] Item Create Request [Budge Drag] [0][203][138] : [Crossbow][0][0][1][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:16:20] Item Drop [0][203][138] : serial:59 [Crossbow][0][0][1][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:16:21] [XCZBO][XCZBO] Shop [MAP:0][X:183][Y:137] Item Sell Money:120 Short Bow:0/1/1/0/34 Dur:20 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:16:22] [XCZBO][XCZBO] Shop [MAP:0][X:183][Y:137] Item Sell Money:50 Short Bow:0/0/1/0/45 Dur:20 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:16:23] [XCZBO][XCZBO] Shop [MAP:0][X:183][Y:137] Item Sell Money:50 Short Bow:0/0/1/0/50 Dur:20 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:16:24] Item has disappeared (Apple:7168 / Level: 0 / Skill: 0 / Serial: 55)
+[22:16:24] Item has disappeared (Short Bow:2048 / Level: 0 / Skill: 0 / Serial: 56)
+[22:16:25] [XCZBO][XCZBO] Shop [MAP:0][X:183][Y:137] Item Sell Money:150 Crossbow:0/1/0/0/51 Dur:22 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:16:26] [Party] Experience : Map[Lorencia]-(207,152) [forgoten][dios](19) Experience: 87480 + 13000  MonsterClass : 3
+[22:16:26] [XCZBO][XCZBO] Shop [MAP:0][X:183][Y:137] Item Sell Money:28 Small Axe:0/0/0/0/0 Dur:18 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:16:28] Item has disappeared (Apple:7168 / Level: 0 / Skill: 0 / Serial: 57)
+[22:16:28] Item has disappeared (Leather Gloves:5125 / Level: 0 / Skill: 0 / Serial: 58)
+[22:16:29] [Party] Experience : Map[Lorencia]-(206,158) [forgoten][dios](19) Experience: 100480 + 35000  MonsterClass : 2
+[22:16:29] Level Up [forgoten][dios][20]
+[22:16:30] Item has disappeared (Crossbow:2056 / Level: 0 / Skill: 0 / Serial: 59)
+[22:16:33] [XCZBO][XCZBO] Shop [MAP:0][X:183][Y:137] Item Sell Money:62 Pad Boots:0/0/0/0/42 Dur:28 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:16:35] [XCZBO][XCZBO] Shop [MAP:0][X:183][Y:137] Item Sell Money:39 Small Shield:0/0/0/0/27 Dur:22 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:16:35] [Party] Experience : Map[Lorencia]-(210,162) [forgoten][dios](20) Experience: 101080 + 12000  MonsterClass : 3
+[22:16:37] [XCZBO][XCZBO] Shop [MAP:0][X:183][Y:137] Item Sell Money:28 Small Axe:0/0/0/0/36 Dur:18 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:16:41] Item has disappeared (Zen:7183 / Level: 0 / Skill: 0 / Serial: 0)
+[22:16:42] [XCZBO][XCZBO] Shop [MAP:0][X:183][Y:137] Item Sell Money:0 Apple:0/0/0/0/43 Dur:1 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:16:44] [Single] Experience : Map[Lorencia]-(184,136) [XCZBO][XCZBO](25) Experience: 200080 + 10000  MonsterClass : 3
+[22:16:46] [Party] Experience : Map[Lorencia]-(213,189) [forgoten][dios](20) Experience: 113080 + 12000  MonsterClass : 3
+[22:16:46] Level Up [forgoten][dios][21]
+[22:16:47] Item Create Request [Spider] [0][212][191] : [Small Axe][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:16:47] Item Drop [0][212][191] : serial:60 [Small Axe][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:16:51] [Party] Experience : Map[Lorencia]-(215,191) [forgoten][dios](21) Experience: 116000 + 31000  MonsterClass : 2
+[22:16:51] Level Up [forgoten][dios][22]
+[22:16:52] Item Create Request [Budge Drag] [0][216][191] : [Hand Axe][0][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:16:52] Item Drop [0][216][191] : serial:61 [Hand Axe][0][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:16:55] [Party] Experience : Map[Lorencia]-(209,196) [forgoten][dios](22) Experience: 132300 + 11000  MonsterClass : 3
+[22:16:58] [fast][Tomi] Item Save Complete. Money [ 6821 ]
+[22:16:58] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[1] QS[91]
+[22:16:58] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[18] QS[9]
+[22:16:58] [MuunInvenItem] [fast][Tomi] Muun Item Save Complete.
+[22:16:58] Item has disappeared (Small Axe:512 / Level: 0 / Skill: 0 / Serial: 60)
+[22:17:02] Item has disappeared (Hand Axe:513 / Level: 0 / Skill: 0 / Serial: 61)
+[22:17:07] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[2] QS[0] QuestListCnt[4]
+[22:17:07] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[3] QS[0] QuestListCnt[4]
+[22:17:07] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[4] QS[0] QuestListCnt[4]
+[22:17:07] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[18] QS[1] QuestListCnt[4]
+[22:17:10] [QuestExp] Selection Episode List Choose One [XCZBO][XCZBO] QuestInfoIndexID[0x120001] Choose[4]
+[22:17:10] [QuestExp] Send QuestInfo From NPC To User : [XCZBO][XCZBO] Ep[18] QS[1]
+[22:17:10] [Party] Experience : Map[Lorencia]-(202,222) [forgoten][dios](22) Experience: 143300 + 11000  MonsterClass : 3
+[22:17:10] Level Up [forgoten][dios][23]
+[22:17:11] Item Create Request [Spider] [0][203][222] : [Blood Bone][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:17:11] Item Drop [0][203][222] : serial:62 [Blood Bone][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:17:11] [QuestExp] ReqQuestComplete [XCZBO][XCZBO] QuestInfoIndexID[0x120001]
+[22:17:11] [QuestExp] AskQuestComplete [XCZBO][XCZBO] Ep[18] QS[1]
+[22:17:11] [Quest Exp] Experience : Map[Lorencia]-(169,128) [XCZBO][XCZBO](25) Experience: 210080 + 2000  MonsterClass : 0
+[22:17:11] [QuestExp] Reward Exp [XCZBO][XCZBO] Exp[2000] Ep[18] QS[1]
+[22:17:11] [QuestExp] Ans Complete [XCZBO][XCZBO] Ep [18] QS [1] Result [1]
+[22:17:11] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[18] QS[3]
+[22:17:11] [Party] Experience : Map[Lorencia]-(201,223) [forgoten][dios](23) Experience: 150040 + 28000  MonsterClass : 2
+[22:17:11] Level Up [forgoten][dios][24]
+[22:17:12] [Party] Experience : Map[Lorencia]-(201,223) [forgoten][dios](24) Experience: 169280 + 27000  MonsterClass : 2
+[22:17:12] Level Up [forgoten][dios][25]
+[22:17:13] Item Create Request [Budge Drag] [0][203][223] : [Leather Gloves][0][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:17:13] [Party] Experience : Map[Lorencia]-(202,222) [forgoten][dios](25) Experience: 190080 + 10000  MonsterClass : 3
+[22:17:13] Item Drop [0][203][223] : serial:63 [Leather Gloves][0][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:17:14] [Party] Experience : Map[Lorencia]-(200,221) [forgoten][dios](25) Experience: 200080 + 26000  MonsterClass : 2
+[22:17:14] Level Up [forgoten][dios][26]
+[22:17:16] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[2] QS[0] QuestListCnt[4]
+[22:17:16] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[3] QS[0] QuestListCnt[4]
+[22:17:16] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[4] QS[0] QuestListCnt[4]
+[22:17:16] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[18] QS[3] QuestListCnt[4]
+[22:17:19] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:50 Y:87
+[22:17:19] [forgoten][dios][0]202/223 Get serial:63 [Leather Gloves][5125][0][0][1][0] dur:[30]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:17:20] [QuestExp] Selection Episode List Choose One [XCZBO][XCZBO] QuestInfoIndexID[0x20000] Choose[1]
+[22:17:20] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[2] QS[0]
+[22:17:20] [QuestExp] - Ans Send User : Selection Statements Choose One [XCZBO][XCZBO] QuestIndexID[0x20000]
+[22:17:22] Item has disappeared (Blood Bone:6673 / Level: 1 / Skill: 0 / Serial: 62)
+[22:17:23] Item has disappeared (Zen:7183 / Level: 0 / Skill: 0 / Serial: 0)
+[22:17:25] Item has disappeared (Zen:7183 / Level: 0 / Skill: 0 / Serial: 0)
+[22:17:25] [QuestExp] Selection Statements Choose One - User NPC Talking [XCZBO][XCZBO] QuestInfoIndexID[0x20000] Choose[1]
+[22:17:25] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[2] QS[2]
+[22:17:25] [QuestExp] - Ans Send User : Selection Statements Choose One [XCZBO][XCZBO] QuestIndexID[0x20002]
+[22:17:28] [QuestExp] Selection Statements Choose One - User NPC Talking [XCZBO][XCZBO] QuestInfoIndexID[0x20002] Choose[1]
+[22:17:28] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[2] QS[3]
+[22:17:28] [QuestExp] - Ans Send User : Selection Statements Choose One [XCZBO][XCZBO] QuestIndexID[0x20003]
+[22:17:30] [Party] Experience : Map[Lorencia]-(203,222) [forgoten][dios](26) Experience: 212500 + 25000  MonsterClass : 2
+[22:17:30] Level Up [forgoten][dios][27]
+[22:17:30] [QuestExp] Selection Statements Choose One - User NPC Talking [XCZBO][XCZBO] QuestInfoIndexID[0x20003] Choose[1]
+[22:17:30] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[2] QS[4]
+[22:17:30] [QuestExp] - Ans Send User : Selection Statements Choose One [XCZBO][XCZBO] QuestIndexID[0x20004]
+[22:17:34] [QuestExp] Selection Statements Choose One - User NPC Talking [XCZBO][XCZBO] QuestInfoIndexID[0x20004] Choose[1]
+[22:17:34] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[2] QS[5]
+[22:17:34] [QuestExp] - Ans Send User : Selection Statements Choose One [XCZBO][XCZBO] QuestIndexID[0x20005]
+[22:17:34] [Party] Experience : Map[Lorencia]-(202,230) [forgoten][dios](27) Experience: 236600 + 23000  MonsterClass : 2
+[22:17:35] [Party] Experience : Map[Lorencia]-(202,230) [forgoten][dios](27) Experience: 259600 + 10000  MonsterClass : 3
+[22:17:35] Level Up [forgoten][dios][28]
+[22:17:36] Item Create Request [Budge Drag] [0][203][229] : [Scroll of Archangel][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:17:36] Item Drop [0][203][229] : serial:64 [Scroll of Archangel][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:17:37] Item Create Request [Spider] [0][201][232] : [Small Axe][0][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:17:37] Item Drop [0][201][232] : serial:65 [Small Axe][0][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:17:38] [Party] Experience : Map[Lorencia]-(197,230) [forgoten][dios](28) Experience: 262440 + 23000  MonsterClass : 2
+[22:17:39] Item Create Request [Budge Drag] [0][197][231] : [Rena][3][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:17:39] Item Drop [0][197][231] : serial:66 [Rena][3][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:17:40] [Party] Experience : Map[Lorencia]-(199,228) [forgoten][dios](28) Experience: 285440 + 23000  MonsterClass : 2
+[22:17:40] Level Up [forgoten][dios][29]
+[22:17:44] [QuestExp] Selection Statements Choose One - User NPC Talking [XCZBO][XCZBO] QuestInfoIndexID[0x20005] Choose[1]
+[22:17:44] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[2] QS[6]
+[22:17:44] [QuestExp] - Ans Send User : Selection Statements Choose One [XCZBO][XCZBO] QuestIndexID[0x20006]
+[22:17:46] Item has disappeared (Scroll of Archangel:6672 / Level: 1 / Skill: 0 / Serial: 64)
+[22:17:47] [QuestExp] Selection Statements Choose One - User NPC Talking [XCZBO][XCZBO] QuestInfoIndexID[0x20006] Choose[1]
+[22:17:47] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[2] QS[7]
+[22:17:47] [QuestExp] - Ans Send User : Selection Statements Choose One [XCZBO][XCZBO] QuestIndexID[0x20007]
+[22:17:47] Item has disappeared (Small Axe:512 / Level: 0 / Skill: 0 / Serial: 65)
+[22:17:48] [Party] Experience : Map[Lorencia]-(199,228) [forgoten][dios](29) Experience: 290080 + 8000  MonsterClass : 3
+[22:17:49] [QuestExp] Selection Statements Choose One - User NPC Talking [XCZBO][XCZBO] QuestInfoIndexID[0x20007] Choose[1]
+[22:17:49] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[2] QS[8]
+[22:17:49] [QuestExp] Send QuestInfo From NPC To User : [XCZBO][XCZBO] Ep[2] QS[8]
+[22:17:49] Item has disappeared (Rena:7189 / Level: 3 / Skill: 0 / Serial: 66)
+[22:17:52] Item has disappeared (Zen:7183 / Level: 0 / Skill: 0 / Serial: 0)
+[22:17:52] Item has disappeared (Zen:7183 / Level: 0 / Skill: 0 / Serial: 0)
+[22:17:52] Item has disappeared (Zen:7183 / Level: 0 / Skill: 0 / Serial: 0)
+[22:17:53] [QuestExp] ReqQuestComplete [XCZBO][XCZBO] QuestInfoIndexID[0x20008]
+[22:17:53] [QuestExp] Reward Item [XCZBO][XCZBO] Ep[2] QS[8] ItemName[Armor of Guardsman] Item Num[6685] Level[0] Dur[0] skill[0]
+[22:17:53] [QuestExp] Ans Complete [XCZBO][XCZBO] Ep [2] QS [8] Result [1]
+[22:17:53] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[2] QS[9]
+[22:17:57] [Party] Experience : Map[Lorencia]-(191,224) [forgoten][dios](29) Experience: 298080 + 187000  MonsterClass : 6
+[22:17:57] Level Up [forgoten][dios][30]
+[22:18:00] Item has disappeared (Zen:7183 / Level: 0 / Skill: 0 / Serial: 0)
+[22:18:01] [Party] Experience : Map[Lorencia]-(182,219) [forgoten][dios](30) Experience: 319580 + 21000  MonsterClass : 2
+[22:18:01] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[2] QS[9] QuestListCnt[4]
+[22:18:01] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[3] QS[0] QuestListCnt[4]
+[22:18:01] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[4] QS[0] QuestListCnt[4]
+[22:18:01] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[18] QS[3] QuestListCnt[4]
+[22:18:02] Item Create Request [Budge Drag] [0][182][218] : [Small Axe][1][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:18:02] Item Drop [0][182][218] : serial:68 [Small Axe][1][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:18:02] [Party] Experience : Map[Lorencia]-(185,216) [forgoten][dios](30) Experience: 340580 + 21000  MonsterClass : 2
+[22:18:02] Level Up [forgoten][dios][31]
+[22:18:04] [Party] Experience : Map[Lorencia]-(184,214) [forgoten][dios](31) Experience: 351000 + 21000  MonsterClass : 2
+[22:18:06] [QuestExp] Selection Episode List Choose One [XCZBO][XCZBO] QuestInfoIndexID[0x20009] Choose[1]
+[22:18:06] [QuestExp] - Ans Send User : Selection Statements Choose One [XCZBO][XCZBO] QuestIndexID[0x20009]
+[22:18:08] Item has disappeared (Zen:7183 / Level: 0 / Skill: 0 / Serial: 0)
+[22:18:09] [QuestExp] Selection Statements Choose One - User NPC Talking [XCZBO][XCZBO] QuestInfoIndexID[0x20009] Choose[1]
+[22:18:09] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[2] QS[11]
+[22:18:09] [QuestExp] Send QuestInfo From NPC To User : [XCZBO][XCZBO] Ep[2] QS[11]
+[22:18:09] [Party] Experience : Map[Lorencia]-(171,220) [forgoten][dios](31) Experience: 372000 + 7000  MonsterClass : 3
+[22:18:10] [Party] Experience : Map[Lorencia]-(171,221) [forgoten][dios](31) Experience: 379000 + 7000  MonsterClass : 3
+[22:18:10] Level Up [forgoten][dios][32]
+[22:18:12] Item has disappeared (Small Axe:512 / Level: 1 / Skill: 0 / Serial: 68)
+[22:18:14] Item has disappeared (Zen:7183 / Level: 0 / Skill: 0 / Serial: 0)
+[22:18:19] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[2] QS[11] QuestListCnt[4]
+[22:18:19] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[3] QS[0] QuestListCnt[4]
+[22:18:19] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[4] QS[0] QuestListCnt[4]
+[22:18:19] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[18] QS[3] QuestListCnt[4]
+[22:18:20] [QuestExp] Selection Episode List Choose One [XCZBO][XCZBO] QuestInfoIndexID[0x40000] Choose[3]
+[22:18:20] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[4] QS[0]
+[22:18:20] [QuestExp] - Ans Send User : Selection Statements Choose One [XCZBO][XCZBO] QuestIndexID[0x40000]
+[22:18:21] Item has disappeared (Zen:7183 / Level: 0 / Skill: 0 / Serial: 0)
+[22:18:22] Item has disappeared (Zen:7183 / Level: 0 / Skill: 0 / Serial: 0)
+[22:18:23] [QuestExp] Selection Statements Choose One - User NPC Talking [XCZBO][XCZBO] QuestInfoIndexID[0x40000] Choose[1]
+[22:18:23] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[4] QS[2]
+[22:18:23] [QuestExp] - Ans Send User : Selection Statements Choose One [XCZBO][XCZBO] QuestIndexID[0x40002]
+[22:18:25] [QuestExp] Selection Statements Choose One - User NPC Talking [XCZBO][XCZBO] QuestInfoIndexID[0x40002] Choose[1]
+[22:18:25] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[4] QS[3]
+[22:18:25] [QuestExp] - Ans Send User : Selection Statements Choose One [XCZBO][XCZBO] QuestIndexID[0x40003]
+[22:18:27] [QuestExp] Selection Statements Choose One - User NPC Talking [XCZBO][XCZBO] QuestInfoIndexID[0x40003] Choose[1]
+[22:18:27] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[4] QS[4]
+[22:18:27] [QuestExp] - Ans Send User : Selection Statements Choose One [XCZBO][XCZBO] QuestIndexID[0x40004]
+[22:18:29] [QuestExp] Selection Statements Choose One - User NPC Talking [XCZBO][XCZBO] QuestInfoIndexID[0x40004] Choose[1]
+[22:18:29] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[4] QS[5]
+[22:18:29] [QuestExp] - Ans Send User : Selection Statements Choose One [XCZBO][XCZBO] QuestIndexID[0x40005]
+[22:18:29] [Party] Experience : Map[Lorencia]-(171,241) [forgoten][dios](32) Experience: 384400 + 313000  MonsterClass : 14
+[22:18:29] Level Up [forgoten][dios][33]
+[22:18:30] [QuestExp] Selection Statements Choose One - User NPC Talking [XCZBO][XCZBO] QuestInfoIndexID[0x40005] Choose[1]
+[22:18:30] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[4] QS[6]
+[22:18:30] [QuestExp] - Ans Send User : Selection Statements Choose One [XCZBO][XCZBO] QuestIndexID[0x40006]
+[22:18:32] [QuestExp] Selection Statements Choose One - User NPC Talking [XCZBO][XCZBO] QuestInfoIndexID[0x40006] Choose[1]
+[22:18:32] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[4] QS[7]
+[22:18:32] [QuestExp] - Ans Send User : Selection Statements Choose One [XCZBO][XCZBO] QuestIndexID[0x40007]
+[22:18:34] [QuestExp] Selection Statements Choose One - User NPC Talking [XCZBO][XCZBO] QuestInfoIndexID[0x40007] Choose[1]
+[22:18:34] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[4] QS[8]
+[22:18:34] [QuestExp] Send QuestInfo From NPC To User : [XCZBO][XCZBO] Ep[4] QS[8]
+[22:18:35] [Party] Experience : Map[Lorencia]-(172,243) [forgoten][dios](33) Experience: 419840 + 165000  MonsterClass : 6
+[22:18:35] Level Up [forgoten][dios][34]
+[22:18:36] [QuestExp] ReqQuestComplete [XCZBO][XCZBO] QuestInfoIndexID[0x40008]
+[22:18:36] [Quest Exp] Experience : Map[Lorencia]-(169,128) [XCZBO][XCZBO](25) Experience: 212080 + 10000  MonsterClass : 0
+[22:18:36] Level Up [XCZBO][XCZBO][26]
+[22:18:36] [QuestExp] Reward Exp [XCZBO][XCZBO] Exp[10000] Ep[4] QS[8]
+[22:18:36] [QuestExp] Ans Complete [XCZBO][XCZBO] Ep [4] QS [8] Result [1]
+[22:18:36] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[4] QS[9]
+[22:18:37] Item Create Request [LIch] [0][172][242] : [Vine Armor][1][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:18:37] Item Drop [0][172][242] : serial:69 [Vine Armor][1][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:18:41] Item has disappeared (Zen:7183 / Level: 0 / Skill: 0 / Serial: 0)
+[22:18:47] Item has disappeared (Vine Armor:4106 / Level: 1 / Skill: 0 / Serial: 69)
+[22:18:49] [Gens System] Gens_Duprian_NPC [XCZBO][XCZBO] GensName [NONE_INFLUENCE] Total ContributePoint [0]
+[22:18:51] [Party] Experience : Map[Lorencia]-(177,213) [forgoten][dios](34) Experience: 457380 + 160000  MonsterClass : 6
+[22:18:51] Level Up [forgoten][dios][35]
+[22:18:52] [Party] Experience : Map[Lorencia]-(176,213) [forgoten][dios](35) Experience: 497080 + 7000  MonsterClass : 3
+[22:18:57] [Party] Experience : Map[Lorencia]-(174,212) [forgoten][dios](35) Experience: 504080 + 155000  MonsterClass : 6
+[22:18:57] Level Up [forgoten][dios][36]
+[22:18:58] Item Create Request [LIch] [0][173][213] : [Sword of Assassin][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:18:58] Item Drop [0][173][213] : serial:70 [Sword of Assassin][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:19:09] [Party] Experience : Map[Lorencia]-(174,212) [forgoten][dios](36) Experience: 539000 + 278000  MonsterClass : 14
+[22:19:09] Level Up [forgoten][dios][37]
+[22:19:09] Item has disappeared (Sword of Assassin:4 / Level: 0 / Skill: 0 / Serial: 70)
+[22:19:10] Item Create Request [Skeleton] [0][175][213] : [Vine Gloves][5][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:19:10] Item Drop [0][175][213] : serial:71 [Vine Gloves][5][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:19:12] [Party] Experience : Map[Lorencia]-(174,211) [forgoten][dios](37) Experience: 583200 + 17000  MonsterClass : 2
+[22:19:19] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:46 Y:79
+[22:19:20] Item has disappeared (Vine Gloves:5130 / Level: 5 / Skill: 0 / Serial: 71)
+[22:19:25] [Idk288][Conqueror] Item Save Complete. Money [ 0 ]
+[22:19:25] [MuunInvenItem] [Idk288][Conqueror] Muun Item Save Complete.
+[22:19:26] [Party] Experience : Map[Lorencia]-(165,207) [forgoten][dios](37) Experience: 600200 + 147000  MonsterClass : 6
+[22:19:26] Level Up [forgoten][dios][38]
+[22:19:37] [XCZBO][XCZBO] Item Save Complete. Money [ 612 ]
+[22:19:37] [QuestExp] AllQuestInfoSave [XCZBO][XCZBO] EP[2] QS[11] AskIndex[0x1] AskValue[0] AskState[0]
+[22:19:37] [QuestExp] AllQuestInfoSave [XCZBO][XCZBO] EP[4] QS[9]
+[22:19:37] [QuestExp] AllQuestInfoSave [XCZBO][XCZBO] EP[18] QS[3]
+[22:19:37] [MuunInvenItem] [XCZBO][XCZBO] Muun Item Save Complete.
+[22:19:37] Item has disappeared (Zen:7183 / Level: 0 / Skill: 0 / Serial: 0)
+[22:19:37] [Party] Experience : Map[Lorencia]-(168,207) [forgoten][dios](38) Experience: 629740 + 6000  MonsterClass : 3
+[22:19:39] Item Create Request [Spider] [0][168][208] : [Orb of Summoning][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:19:39] Item Drop [0][168][208] : serial:72 [Orb of Summoning][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:19:49] Item has disappeared (Orb of Summoning:6155 / Level: 0 / Skill: 0 / Serial: 72)
+[22:19:50] count:0
+[22:20:00] [XCZBO][XCZBO] Item Save Complete. Money [ 612 ]
+[22:20:00] [XCZBO][XCZBO] Store Save Complete. wMoney[0]
+[22:20:00] [XCZBO][XCZBO] Warehouse save OK (WindowClose:1)
+[22:20:06] [Party] Experience : Map[Lorencia]-(169,203) [forgoten][dios](38) Experience: 635740 + 17000  MonsterClass : 2
+[22:20:08] [Party] Experience : Map[Lorencia]-(169,203) [forgoten][dios](38) Experience: 652740 + 142000  MonsterClass : 6
+[22:20:08] Level Up [forgoten][dios][39]
+[22:20:08] [Devil Square] will close after 5 minute(s)
+[22:20:08] [DevilSquare] Boss 9 123 82 create 
+[22:20:08] [DevilSquare] Boss 9 144 83 create 
+[22:20:08] [DevilSquare] Boss 9 146 97 create 
+[22:20:08] [DevilSquare] Boss 9 119 91 create 
+[22:20:08] [DevilSquare] Boss 9 144 106 create 
+[22:20:08] [DevilSquare] Boss 9 131 161 create 
+[22:20:08] [DevilSquare] Boss 9 141 174 create 
+[22:20:08] [DevilSquare] Boss 9 141 172 create 
+[22:20:08] [DevilSquare] Boss 9 141 164 create 
+[22:20:08] [DevilSquare] Boss 9 137 173 create 
+[22:20:08] [DevilSquare] Boss 9 67 172 create 
+[22:20:08] [DevilSquare] Boss 9 65 163 create 
+[22:20:08] [DevilSquare] Boss 9 49 140 create 
+[22:20:08] [DevilSquare] Boss 9 63 171 create 
+[22:20:08] [DevilSquare] Boss 9 75 162 create 
+[22:20:08] [DevilSquare] Boss 9 69 76 create 
+[22:20:08] [DevilSquare] Boss 9 57 88 create 
+[22:20:08] [DevilSquare] Boss 9 58 92 create 
+[22:20:08] [DevilSquare] Boss 9 78 84 create 
+[22:20:08] [DevilSquare] Boss 9 78 101 create 
+[22:20:08] [DevilSquare] Boss 32 139 113 create 
+[22:20:08] [DevilSquare] Boss 32 136 82 create 
+[22:20:08] [DevilSquare] Boss 32 146 113 create 
+[22:20:08] [DevilSquare] Boss 32 145 97 create 
+[22:20:08] [DevilSquare] Boss 32 125 84 create 
+[22:20:08] [DevilSquare] Boss 32 150 154 create 
+[22:20:08] [DevilSquare] Boss 32 147 158 create 
+[22:20:08] [DevilSquare] Boss 32 124 178 create 
+[22:20:08] [DevilSquare] Boss 32 142 175 create 
+[22:20:08] [DevilSquare] Boss 32 132 175 create 
+[22:20:08] [DevilSquare] Boss 32 63 155 create 
+[22:20:08] [DevilSquare] Boss 32 54 164 create 
+[22:20:08] [DevilSquare] Boss 32 55 163 create 
+[22:20:08] [DevilSquare] Boss 32 73 165 create 
+[22:20:08] [DevilSquare] Boss 32 61 170 create 
+[22:20:12] [UserSelClose] Go Exit [forgoten][dios] Map:[0][171/194]
+[22:20:18] [forgoten][dios] Item Save Complete. Money [ 46 ]
+[22:20:18] [MuunInvenItem] [forgoten][dios] Muun Item Save Complete.
+[22:20:18] (12020)(forgoten)(dios) Character closed
+[22:20:18] (12020)Logout Request : forgoten [181.44.131.125]
+[22:20:18] (12020)Disconnected :  [181.44.131.125]
+[22:20:18] WSASend(910) failed with error 10038 181.44.131.125 
+[22:20:18] error-L1 : CloseClient connect error
+[22:20:39] [ItemShop] [Idk288][Conqueror] Opened shop
+[22:20:41] [ItemShop] [Idk288][Conqueror] Closed shop
+[22:20:53] [JewelMix] [XCZBO][XCZBO] Jewel Mix Dealer Start
+[22:20:53] [XCZBO][XCZBO] Item Save Complete. Money [ 612 ]
+[22:20:53] [XCZBO][XCZBO] Store Save Complete. wMoney[0]
+[22:21:00] [XCZBO][XCZBO] error-L3 : pTransaction(0) status2
+[22:21:02] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[18] QS[9]
+[22:21:02] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[2] QS[11] QuestListCnt[4]
+[22:21:02] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[3] QS[0] QuestListCnt[4]
+[22:21:02] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[4] QS[9] QuestListCnt[4]
+[22:21:02] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[18] QS[9] QuestListCnt[4]
+[22:21:05] [QuestExp] Selection Episode List Choose One [XCZBO][XCZBO] QuestInfoIndexID[0x120009] Choose[4]
+[22:21:05] [QuestExp] - Ans Send User : Selection Statements Choose One [XCZBO][XCZBO] QuestIndexID[0x120009]
+[22:21:08] [QuestExp] Selection Statements Choose One - User NPC Talking [XCZBO][XCZBO] QuestInfoIndexID[0x120009] Choose[1]
+[22:21:08] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[18] QS[10]
+[22:21:08] [QuestExp] Send QuestInfo From NPC To User : [XCZBO][XCZBO] Ep[18] QS[10]
+[22:21:19] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:42 Y:87
+[22:21:29] [Single] Experience : Map[Lorencia]-(135,173) [XCZBO][XCZBO](26) Experience: 212500 + 347000  MonsterClass : 14
+[22:21:29] Level Up [XCZBO][XCZBO][27]
+[22:21:31] [QuestExp] Ask Kill Monster [XCZBO][XCZBO] Ep[18] QS[10] MonName[Skeleton] AskKillCnt[20] KillCnt[1] 
+[22:21:32] [Single] Experience : Map[Lorencia]-(135,173) [XCZBO][XCZBO](27) Experience: 236600 + 201000  MonsterClass : 6
+[22:21:32] Level Up [XCZBO][XCZBO][28]
+[22:21:33] Item Drop [0][135][173] : serial:73 [Pink Chocolate Box][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:21:35] [XCZBO][XCZBO][0]135/173 Get serial:73 [Pink Chocolate Box][7200][1][0][0][0] dur:[2]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:21:49] [Single] Experience : Map[Lorencia]-(131,178) [XCZBO][XCZBO](28) Experience: 262440 + 347000  MonsterClass : 14
+[22:21:49] Level Up [XCZBO][XCZBO][29]
+[22:21:51] [QuestExp] Ask Kill Monster [XCZBO][XCZBO] Ep[18] QS[10] MonName[Skeleton] AskKillCnt[20] KillCnt[2] 
+[22:21:51] Item Drop [0][131][178] : serial:74 [Pink Chocolate Box][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:21:58] [Single] Experience : Map[Lorencia]-(128,177) [XCZBO][XCZBO](29) Experience: 290080 + 187000  MonsterClass : 6
+[22:21:58] Level Up [XCZBO][XCZBO][30]
+[22:22:01] Item has disappeared (Pink Chocolate Box:7200 / Level: 1 / Skill: 0 / Serial: 74)
+[22:22:02] [XCZBO][XCZBO][0]130/177 Get serial:74 [Pink Chocolate Box][7200][1][0][0][0] dur:[2]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:22:18] [Single] Experience : Map[Lorencia]-(125,169) [XCZBO][XCZBO](30) Experience: 319580 + 335000  MonsterClass : 14
+[22:22:18] Level Up [XCZBO][XCZBO][31]
+[22:22:19] [QuestExp] Ask Kill Monster [XCZBO][XCZBO] Ep[18] QS[10] MonName[Skeleton] AskKillCnt[20] KillCnt[3] 
+[22:22:19] Item Create Request [Skeleton] [0][124][168] : [Leather Gloves][5][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:22:19] Item Drop [0][124][168] : serial:75 [Leather Gloves][5][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:22:22] [Item_Light_Purple_Candy_Box] Drop Zen [XCZBO][XCZBO] [30000 Zen]
+[22:22:22] [XCZBO][XCZBO][Used Item Bag] : (0)(X:125/Y:169)
+[22:22:23] [Item_Light_Purple_Candy_Box] Drop Zen [XCZBO][XCZBO] [30000 Zen]
+[22:22:23] [XCZBO][XCZBO][Used Item Bag] : (0)(X:125/Y:169)
+[22:22:30] Item has disappeared (Leather Gloves:5125 / Level: 5 / Skill: 0 / Serial: 75)
+[22:22:48] [Single] Experience : Map[Lorencia]-(131,184) [XCZBO][XCZBO](31) Experience: 351000 + 325000  MonsterClass : 14
+[22:22:48] Level Up [XCZBO][XCZBO][32]
+[22:22:50] [QuestExp] Ask Kill Monster [XCZBO][XCZBO] Ep[18] QS[10] MonName[Skeleton] AskKillCnt[20] KillCnt[4] 
+[22:22:50] Item Create Request [Skeleton] [0][130][183] : [Bone Gloves][1][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:22:50] Item Drop [0][130][183] : serial:76 [Bone Gloves][1][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:22:52] [Single] Experience : Map[Lorencia]-(132,184) [XCZBO][XCZBO](32) Experience: 384400 + 170000  MonsterClass : 6
+[22:22:52] Level Up [XCZBO][XCZBO][33]
+[22:22:53] Item Create Request [LIch] [0][132][183] : [Golden Crossbow][0][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:22:53] Item Drop [0][132][183] : serial:77 [Golden Crossbow][0][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:22:57] [XCZBO][XCZBO][0]132/184 Get serial:76 [Bone Gloves][5124][1][0][0][0] dur:[31]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:22:58] [XCZBO][XCZBO][0]132/184 Get serial:77 [Golden Crossbow][2057][0][1][0][0] dur:[26]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:23:08] [Single] Experience : Map[Lorencia]-(137,181) [XCZBO][XCZBO](33) Experience: 419840 + 305000  MonsterClass : 14
+[22:23:08] Level Up [XCZBO][XCZBO][34]
+[22:23:10] [QuestExp] Ask Kill Monster [XCZBO][XCZBO] Ep[18] QS[10] MonName[Skeleton] AskKillCnt[20] KillCnt[5] 
+[22:23:15] [Single] Experience : Map[Lorencia]-(140,184) [XCZBO][XCZBO](34) Experience: 457380 + 160000  MonsterClass : 6
+[22:23:15] Level Up [XCZBO][XCZBO][35]
+[22:23:19] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:35 Y:83
+[22:23:21] [KUNDUN][Status Log] HP:5000000 RefillHP:13175 Map:36 X:36 Y:83
+[22:23:25] [Single] Experience : Map[Lorencia]-(152,184) [XCZBO][XCZBO](35) Experience: 497080 + 155000  MonsterClass : 6
+[22:23:25] Level Up [XCZBO][XCZBO][36]
+[22:23:26] Item Create Request [LIch] [0][153][184] : [Box of Luck][7][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:23:26] Item Drop [0][153][184] : serial:78 [Box of Luck][7][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:23:29] [Single] Experience : Map[Lorencia]-(149,187) [XCZBO][XCZBO](36) Experience: 539000 + 151000  MonsterClass : 6
+[22:23:29] Level Up [XCZBO][XCZBO][37]
+[22:23:30] Item Create Request [LIch] [0][150][188] : [Golden Crossbow][0][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:23:30] Item Drop [0][150][188] : serial:79 [Golden Crossbow][0][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:23:32] [XCZBO][XCZBO][0]152/184 Get serial:78 [Box of Luck][7179][7][0][0][0] dur:[255]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:23:34] [XCZBO][XCZBO][0]150/187 Get serial:79 [Golden Crossbow][2057][0][1][1][0] dur:[26]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:23:41] [UserSelClose] Go CharSelect [fast][Tomi] Map:[0][136/116]
+[22:23:46] [Single] Experience : Map[Lorencia]-(145,185) [XCZBO][XCZBO](37) Experience: 583200 + 271000  MonsterClass : 14
+[22:23:46] Level Up [XCZBO][XCZBO][38]
+[22:23:46] [fast][Tomi] Item Save Complete. Money [ 6821 ]
+[22:23:46] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[1] QS[91]
+[22:23:46] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[18] QS[9]
+[22:23:46] [MuunInvenItem] [fast][Tomi] Muun Item Save Complete.
+[22:23:46] (12014)(fast)(Tomi) Character closed
+[22:23:47] [QuestExp] Ask Kill Monster [XCZBO][XCZBO] Ep[18] QS[10] MonName[Skeleton] AskKillCnt[20] KillCnt[6] 
+[22:23:50] [gObjMagicAdd] (Tomi) 1 - Skill:44, Level:0
+[22:23:50] [gObjMagicAdd] (Tomi) 2 - Skill:67, Level:0
+[22:23:50] [gObjMagicAdd] (Tomi) 3 - Skill:68, Level:0
+[22:23:50] [gObjMagicAdd] (Tomi) 4 - Skill:69, Level:0
+[22:23:50] [gObjMagicAdd] (Tomi) 5 - Skill:70, Level:0
+[22:23:50] [gObjMagicAdd] (Tomi) 6 - Skill:71, Level:0
+[22:23:50] [gObjMagicAdd] (Tomi) 7 - Skill:72, Level:0
+[22:23:50] (fast)(Tomi) Set Event GM
+[22:23:50] (12014)(fast)(Tomi) Character select
+[22:23:50] [ShieldSystem][CalcSDPoint] [fast][Tomi] user SD Gage : 313
+[22:23:50] [MapServerMng] CheckMoveMapSvr() - MapServer Check OK [fast][Tomi] : MAP-0 / SVR-0 (State Map:0 X:131 Y:124)
+[22:23:50] [FRUIT System] [fast][Tomi] (MinusPoint:0/PlusPoint:0) (MaxMinus:8/MaxPlus:8)
+[22:23:50] [Quest] QuestSave [fast][Tomi] index(0) name(Find the 'Scroll of Emperor'!) state(None)
+[22:23:50] [Quest] QuestSave [fast][Tomi] index(1) name(Four Treasures of Mu) state(None)
+[22:23:50] [Quest] QuestSave [fast][Tomi] index(2) name(Gain 'Hero status') state(None)
+[22:23:50] [Quest] QuestSave [fast][Tomi] index(3) name(Secret of 'Dark Stone') state(None)
+[22:23:50] [Quest] QuestSave [fast][Tomi] index(4) name(Certificate of 'Strength!') state(None)
+[22:23:50] [Quest] QuestSave [fast][Tomi] index(5) name(Infiltration of 'Barrack') state(None)
+[22:23:50] [Quest] QuestSave [fast][Tomi] index(6) name(Infiltration of 'Refuge') state(None)
+[22:23:50] [Tomi] Friend List Request
+[22:23:50] [Tomi] Friend List Count (0) Send
+[22:23:50] [GensSystem] Get DB GensInfo [fast][Tomi] GensName [NONE_INFLUENCE]
+[22:23:50] [MuunInvenItem] [fast][Tomi] ItemCount[0] Muun Item Load Complete.
+[22:23:50] [PeriodItemEx][SelectItemListCount] End PeriodItem List Receive User Id : fast(1), Name : Tomi
+[22:23:58] [UserSelClose] Go ServerList [fast][Tomi] Map:[0][133/126]
+[22:24:03] [fast][Tomi] Item Save Complete. Money [ 6821 ]
+[22:24:03] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[1] QS[91]
+[22:24:03] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[18] QS[9]
+[22:24:03] [MuunInvenItem] [fast][Tomi] Muun Item Save Complete.
+[22:24:03] (12014)(fast)(Tomi) Character closed
+[22:24:03] (12014)Logout Request : fast [186.182.173.58]
+[22:24:03] (12014)Disconnected :  [186.182.173.58]
+[22:24:12] [Single] Experience : Map[Lorencia]-(132,179) [XCZBO][XCZBO](38) Experience: 629740 + 142000  MonsterClass : 6
+[22:24:12] Level Up [XCZBO][XCZBO][39]
+[22:24:12] Connection Accept : [12021][186.182.173.58]
+[22:24:13] Item Create Request [LIch] [0][131][180] : [Transformation Ring][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:24:13] Item Drop [0][131][180] : serial:80 [Transformation Ring][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:24:15] [XCZBO][XCZBO][0]130/180 Get serial:80 [Transformation Ring][6666][0][0][0][0] dur:[199]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:24:20] [Item_Heaven_Box] Drop Item [XCZBO][XCZBO] : (0)(131/180) Item:(Elven Bow)2050
+[22:24:20] [XCZBO][XCZBO][Used Item Bag] : (0)(X:131/Y:180)
+[22:24:20] Item Drop [0][131][180] : serial:81 [Elven Bow][4][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:24:22] [XCZBO][XCZBO][0]131/180 Get serial:81 [Elven Bow][2050][4][0][0][0] dur:[32]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:24:23] Attempt to Login : (12021)fast (MachineID:1051-4E4B-5E3C-9DA0-9357-115B-2D40-B4F9)
+[22:24:23] Login [186.182.173.58] : (fast) number: 17 / DB: 1
+[22:24:23] [fast] VIP Info Set [Type: 0] [Effect: -1]
+[22:24:23] [fast][] BillType : (NoCharge)
+[22:24:23] You are logged in as Free Player
+[22:24:25] [gObjMagicAdd] (Tomi) 1 - Skill:44, Level:0
+[22:24:25] [gObjMagicAdd] (Tomi) 2 - Skill:67, Level:0
+[22:24:25] [gObjMagicAdd] (Tomi) 3 - Skill:68, Level:0
+[22:24:25] [gObjMagicAdd] (Tomi) 4 - Skill:69, Level:0
+[22:24:25] [gObjMagicAdd] (Tomi) 5 - Skill:70, Level:0
+[22:24:25] [gObjMagicAdd] (Tomi) 6 - Skill:71, Level:0
+[22:24:25] [gObjMagicAdd] (Tomi) 7 - Skill:72, Level:0
+[22:24:25] (fast)(Tomi) Set Event GM
+[22:24:25] (12021)(fast)(Tomi) Character select
+[22:24:25] [ShieldSystem][CalcSDPoint] [fast][Tomi] user SD Gage : 313
+[22:24:25] [MapServerMng] CheckMoveMapSvr() - MapServer Check OK [fast][Tomi] : MAP-0 / SVR-0 (State Map:0 X:130 Y:131)
+[22:24:25] [FRUIT System] [fast][Tomi] (MinusPoint:0/PlusPoint:0) (MaxMinus:8/MaxPlus:8)
+[22:24:25] [Quest] QuestSave [fast][Tomi] index(0) name(Find the 'Scroll of Emperor'!) state(None)
+[22:24:25] [Quest] QuestSave [fast][Tomi] index(1) name(Four Treasures of Mu) state(None)
+[22:24:25] [Quest] QuestSave [fast][Tomi] index(2) name(Gain 'Hero status') state(None)
+[22:24:25] [Quest] QuestSave [fast][Tomi] index(3) name(Secret of 'Dark Stone') state(None)
+[22:24:25] [Quest] QuestSave [fast][Tomi] index(4) name(Certificate of 'Strength!') state(None)
+[22:24:25] [Quest] QuestSave [fast][Tomi] index(5) name(Infiltration of 'Barrack') state(None)
+[22:24:25] [Quest] QuestSave [fast][Tomi] index(6) name(Infiltration of 'Refuge') state(None)
+[22:24:25] [Tomi] Friend List Request
+[22:24:25] [Tomi] Friend List Count (0) Send
+[22:24:25] [GensSystem] Get DB GensInfo [fast][Tomi] GensName [NONE_INFLUENCE]
+[22:24:25] [MuunInvenItem] [fast][Tomi] ItemCount[0] Muun Item Load Complete.
+[22:24:25] [PeriodItemEx][SelectItemListCount] End PeriodItem List Receive User Id : fast(1), Name : Tomi
+[22:24:33] Using transformation ring : XCZBO : 0
+[22:24:46] [Single] Experience : Map[Lorencia]-(119,180) [XCZBO][XCZBO](39) Experience: 678680 + 257000  MonsterClass : 14
+[22:24:46] Level Up [XCZBO][XCZBO][40]
+[22:24:47] [QuestExp] Ask Kill Monster [XCZBO][XCZBO] Ep[18] QS[10] MonName[Skeleton] AskKillCnt[20] KillCnt[7] 
+[22:24:48] [UserSelClose] Go ServerList [fast][Tomi] Map:[0][136/137]
+[22:24:54] [fast][Tomi] Item Save Complete. Money [ 6821 ]
+[22:24:54] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[1] QS[91]
+[22:24:54] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[18] QS[9]
+[22:24:54] [MuunInvenItem] [fast][Tomi] Muun Item Save Complete.
+[22:24:54] (12021)(fast)(Tomi) Character closed
+[22:24:54] (12021)Logout Request : fast [186.182.173.58]
+[22:24:54] (12021)Disconnected :  [186.182.173.58]
+[22:24:56] Connection Accept : [12022][186.182.173.58]
+[22:25:00] [Single] Experience : Map[Lorencia]-(114,169) [XCZBO][XCZBO](40) Experience: 730080 + 60000  MonsterClass : 1
+[22:25:00] Level Up [XCZBO][XCZBO][41]
+[22:25:00] Attempt to Login : (12022)fast (MachineID:1051-4E4B-5E3C-9DA0-9357-115B-2D40-B4F9)
+[22:25:00] Login [186.182.173.58] : (fast) number: 19 / DB: 1
+[22:25:00] [fast] VIP Info Set [Type: 0] [Effect: -1]
+[22:25:01] Item Create Request [Hound] [0][114][169] : [Leather Helm][1][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:25:01] [fast][] BillType : (NoCharge)
+[22:25:01] You are logged in as Free Player
+[22:25:01] Item Drop [0][114][169] : serial:82 [Leather Helm][1][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:25:02] [gObjMagicAdd] (Tomi) 1 - Skill:44, Level:0
+[22:25:02] [gObjMagicAdd] (Tomi) 2 - Skill:67, Level:0
+[22:25:02] [gObjMagicAdd] (Tomi) 3 - Skill:68, Level:0
+[22:25:02] [gObjMagicAdd] (Tomi) 4 - Skill:69, Level:0
+[22:25:02] [gObjMagicAdd] (Tomi) 5 - Skill:70, Level:0
+[22:25:02] [gObjMagicAdd] (Tomi) 6 - Skill:71, Level:0
+[22:25:02] [gObjMagicAdd] (Tomi) 7 - Skill:72, Level:0
+[22:25:02] (fast)(Tomi) Set Event GM
+[22:25:02] (12022)(fast)(Tomi) Character select
+[22:25:02] [ShieldSystem][CalcSDPoint] [fast][Tomi] user SD Gage : 313
+[22:25:02] [MapServerMng] CheckMoveMapSvr() - MapServer Check OK [fast][Tomi] : MAP-0 / SVR-0 (State Map:0 X:131 Y:141)
+[22:25:02] [FRUIT System] [fast][Tomi] (MinusPoint:0/PlusPoint:0) (MaxMinus:8/MaxPlus:8)
+[22:25:02] [Quest] QuestSave [fast][Tomi] index(0) name(Find the 'Scroll of Emperor'!) state(None)
+[22:25:02] [Quest] QuestSave [fast][Tomi] index(1) name(Four Treasures of Mu) state(None)
+[22:25:02] [Quest] QuestSave [fast][Tomi] index(2) name(Gain 'Hero status') state(None)
+[22:25:02] [Quest] QuestSave [fast][Tomi] index(3) name(Secret of 'Dark Stone') state(None)
+[22:25:02] [Quest] QuestSave [fast][Tomi] index(4) name(Certificate of 'Strength!') state(None)
+[22:25:02] [Quest] QuestSave [fast][Tomi] index(5) name(Infiltration of 'Barrack') state(None)
+[22:25:02] [Quest] QuestSave [fast][Tomi] index(6) name(Infiltration of 'Refuge') state(None)
+[22:25:02] [Tomi] Friend List Request
+[22:25:02] [Tomi] Friend List Count (0) Send
+[22:25:02] [GensSystem] Get DB GensInfo [fast][Tomi] GensName [NONE_INFLUENCE]
+[22:25:02] [MuunInvenItem] [fast][Tomi] ItemCount[0] Muun Item Load Complete.
+[22:25:02] [PeriodItemEx][SelectItemListCount] End PeriodItem List Receive User Id : fast(1), Name : Tomi
+[22:25:03] [XCZBO][XCZBO][0]114/167 Get serial:82 [Leather Helm][3589][1][0][0][0] dur:[31]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:25:06] [Single] Experience : Map[Lorencia]-(112,168) [XCZBO][XCZBO](41) Experience: 784000 + 98000  MonsterClass : 4
+[22:25:06] Level Up [XCZBO][XCZBO][42]
+[22:25:07] Item Create Request [Elite Bull] [0][113][168] : [Sword of Assassin][0][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:25:07] Item Drop [0][113][168] : serial:83 [Sword of Assassin][0][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:25:09] [DevilSquare] Close
+[22:25:09] [Devil Square] Sync Open Time. [95]min remain
+[22:25:10] [XCZBO][XCZBO][0]111/168 Get serial:83 [Sword of Assassin][4][0][1][1][0] dur:[24]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:25:14] [Single] Experience : Map[Lorencia]-(111,169) [XCZBO][XCZBO](42) Experience: 840500 + 96000  MonsterClass : 4
+[22:25:14] Level Up [XCZBO][XCZBO][43]
+[22:25:19] [JewelMix] [fast][Tomi] Jewel Mix Dealer Start
+[22:25:19] [fast][Tomi] Item Save Complete. Money [ 6821 ]
+[22:25:19] [fast][Tomi] Store Save Complete. wMoney[0]
+[22:25:21] [fast][Tomi] error-L3 : pTransaction(0) status2
+[22:25:21] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:38 Y:74
+[22:25:33] Using transformation ring : XCZBO : 1
+[22:25:51] [Single] Experience : Map[Lorencia]-(120,208) [fast][Tomi](37) Experience: 583200 + 271000  MonsterClass : 14
+[22:25:51] Level Up [fast][Tomi][38]
+[22:25:52] Item Create Request [Skeleton] [0][120][208] : [Devil's Key][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:25:52] Item Drop [0][120][208] : serial:84 [Devil's Key][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:25:53] [Single] Experience : Map[Lorencia]-(125,196) [XCZBO][XCZBO](43) Experience: 899640 + 233000  MonsterClass : 14
+[22:25:53] Level Up [XCZBO][XCZBO][44]
+[22:25:55] [QuestExp] Ask Kill Monster [XCZBO][XCZBO] Ep[18] QS[10] MonName[Skeleton] AskKillCnt[20] KillCnt[8] 
+[22:26:03] Item has disappeared (Devil's Key:7186 / Level: 1 / Skill: 0 / Serial: 84)
+[22:26:04] [UserSelClose] Go ServerList [fast][Tomi] Map:[0][121/207]
+[22:26:09] [Single] Experience : Map[Lorencia]-(123,204) [XCZBO][XCZBO](44) Experience: 961480 + 123000  MonsterClass : 6
+[22:26:09] Level Up [XCZBO][XCZBO][45]
+[22:26:09] [fast][Tomi] Item Save Complete. Money [ 6821 ]
+[22:26:09] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[1] QS[91]
+[22:26:09] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[18] QS[9]
+[22:26:09] [MuunInvenItem] [fast][Tomi] Muun Item Save Complete.
+[22:26:09] (12022)(fast)(Tomi) Character closed
+[22:26:09] (12022)Logout Request : fast [186.182.173.58]
+[22:26:09] (12022)Disconnected :  [186.182.173.58]
+[22:26:16] Connection Accept : [12023][186.182.173.58]
+[22:26:19] Attempt to Login : (12023)fast (MachineID:1051-4E4B-5E3C-9DA0-9357-115B-2D40-B4F9)
+[22:26:19] Login [186.182.173.58] : (fast) number: 21 / DB: 1
+[22:26:19] [fast] VIP Info Set [Type: 0] [Effect: -1]
+[22:26:20] [fast][] BillType : (NoCharge)
+[22:26:20] You are logged in as Free Player
+[22:26:21] [gObjMagicAdd] (Tomi) 1 - Skill:44, Level:0
+[22:26:21] [gObjMagicAdd] (Tomi) 2 - Skill:67, Level:0
+[22:26:21] [gObjMagicAdd] (Tomi) 3 - Skill:68, Level:0
+[22:26:21] [gObjMagicAdd] (Tomi) 4 - Skill:69, Level:0
+[22:26:21] [gObjMagicAdd] (Tomi) 5 - Skill:70, Level:0
+[22:26:21] [gObjMagicAdd] (Tomi) 6 - Skill:71, Level:0
+[22:26:21] [gObjMagicAdd] (Tomi) 7 - Skill:72, Level:0
+[22:26:21] (fast)(Tomi) Set Event GM
+[22:26:21] (12023)(fast)(Tomi) Character select
+[22:26:21] [ShieldSystem][CalcSDPoint] [fast][Tomi] user SD Gage : 1881
+[22:26:21] [MapServerMng] CheckMoveMapSvr() - MapServer Check OK [fast][Tomi] : MAP-0 / SVR-0 (State Map:0 X:121 Y:207)
+[22:26:21] [FRUIT System] [fast][Tomi] (MinusPoint:0/PlusPoint:-740) (MaxMinus:56/MaxPlus:56)
+[22:26:21] [FRUIT System] Character Stat Error [fast][Tomi] (MinusPoint:0/PlusPoint:-740) (MaxMinus:56/MaxPlus:56)
+[22:26:21] [Quest] QuestSave [fast][Tomi] index(0) name(Find the 'Scroll of Emperor'!) state(Accept)
+[22:26:21] [Quest] QuestSave [fast][Tomi] index(1) name(Four Treasures of Mu) state(None)
+[22:26:21] [Quest] QuestSave [fast][Tomi] index(2) name(Gain 'Hero status') state(None)
+[22:26:21] [Quest] QuestSave [fast][Tomi] index(3) name(Secret of 'Dark Stone') state(None)
+[22:26:21] [Quest] QuestSave [fast][Tomi] index(4) name(Certificate of 'Strength!') state(None)
+[22:26:21] [Quest] QuestSave [fast][Tomi] index(5) name(Infiltration of 'Barrack') state(None)
+[22:26:21] [Quest] QuestSave [fast][Tomi] index(6) name(Infiltration of 'Refuge') state(None)
+[22:26:21] [Tomi] Friend List Request
+[22:26:21] [Tomi] Friend List Count (0) Send
+[22:26:21] [GensSystem] Get DB GensInfo [fast][Tomi] GensName [NONE_INFLUENCE]
+[22:26:21] [MuunInvenItem] [fast][Tomi] ItemCount[0] Muun Item Load Complete.
+[22:26:21] [PeriodItemEx][SelectItemListCount] End PeriodItem List Receive User Id : fast(1), Name : Tomi
+[22:26:23] [Single] Experience : Map[Lorencia]-(121,215) [XCZBO][XCZBO](45) Experience: 1026080 + 223000  MonsterClass : 14
+[22:26:23] Level Up [XCZBO][XCZBO][46]
+[22:26:24] [QuestExp] Ask Kill Monster [XCZBO][XCZBO] Ep[18] QS[10] MonName[Skeleton] AskKillCnt[20] KillCnt[9] 
+[22:26:24] Item Create Request [Skeleton] [0][120][214] : [Transformation Ring][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:26:24] Item Drop [0][120][214] : serial:85 [Transformation Ring][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:26:25] [Single] Experience : Map[Lorencia]-(121,215) [XCZBO][XCZBO](46) Experience: 1093500 + 117000  MonsterClass : 6
+[22:26:25] Level Up [XCZBO][XCZBO][47]
+[22:26:25] [Single] Experience : Map[Lorencia]-(120,214) [fast][Tomi](220) Experience: 110836000 + 1000  MonsterClass : 6
+[22:26:25] Level Up [fast][Tomi][221]
+[22:26:36] Item has disappeared (Transformation Ring:6666 / Level: 0 / Skill: 0 / Serial: 85)
+[22:26:39] [MapServerMng] CheckMoveMapSvr() - MapServer Check OK [fast][Tomi] : MAP-2 / SVR-0 (State Map:0 X:123 Y:211)
+[22:26:39] [MoveMap][fast][Tomi] : (Before:Map:0 X:123 Y:211) -> (New Map:2 X:211 Y:47)
+[22:26:39] [fast][Tomi] [Using Warp to: Devias] Success : reduces money 1999998000 - 20
+[22:27:05] [Single] Experience : Map[Lorencia]-(107,220) [XCZBO][XCZBO](47) Experience: 1163800 + 213000  MonsterClass : 14
+[22:27:05] Level Up [XCZBO][XCZBO][48]
+[22:27:07] [QuestExp] Ask Kill Monster [XCZBO][XCZBO] Ep[18] QS[10] MonName[Skeleton] AskKillCnt[20] KillCnt[10] 
+[22:27:07] Item Create Request [Skeleton] [0][108][219] : [Orb of Greater Fortitude][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:27:07] Item Drop [0][108][219] : serial:86 [Orb of Greater Fortitude][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:27:14] [Single] Experience : Map[Lorencia]-(107,220) [XCZBO][XCZBO](48) Experience: 1237040 + 208000  MonsterClass : 14
+[22:27:14] Level Up [XCZBO][XCZBO][49]
+[22:27:15] [QuestExp] Ask Kill Monster [XCZBO][XCZBO] Ep[18] QS[10] MonName[Skeleton] AskKillCnt[20] KillCnt[11] 
+[22:27:15] [XCZBO][XCZBO][0]108/219 Get serial:86 [Orb of Greater Fortitude][6153][0][0][0][0] dur:[0]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:27:18] [Single] Experience : Map[Lorencia]-(110,218) [XCZBO][XCZBO](49) Experience: 1313280 + 111000  MonsterClass : 6
+[22:27:18] Level Up [XCZBO][XCZBO][50]
+[22:27:19] Item Create Request [LIch] [0][111][219] : [Box of Luck][7][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:27:19] Item Drop [0][111][219] : serial:87 [Box of Luck][7][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:27:21] [Single] Experience : Map[Lorencia]-(110,218) [XCZBO][XCZBO](50) Experience: 1392580 + 81000  MonsterClass : 4
+[22:27:22] Item Create Request [Elite Bull] [0][109][219] : [Pad Armor][0][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:27:22] Item Drop [0][109][219] : serial:88 [Pad Armor][0][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:27:23] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:57 Y:75
+[22:27:24] [Single] Experience : Map[Lorencia]-(110,218) [XCZBO][XCZBO](50) Experience: 1473580 + 81000  MonsterClass : 4
+[22:27:24] Level Up [XCZBO][XCZBO][51]
+[22:27:25] [XCZBO][XCZBO][0]110/218 Get serial:87 [Box of Luck][7179][7][0][0][0] dur:[255]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:27:25] Item Create Request [Elite Bull] [0][110][217] : [Mace][1][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:27:25] Item Drop [0][110][217] : serial:89 [Mace][1][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:27:26] [XCZBO][XCZBO][0]111/219 Get serial:88 [Pad Armor][4098][0][0][0][0] dur:[28]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:27:27] [XCZBO][XCZBO][0]110/218 Get serial:89 [Mace][1024][1][0][0][0] dur:[22]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:27:32] [Item_Heaven_Box] Drop Item [XCZBO][XCZBO] : (0)(114/219) Item:(Battle Axe)517
+[22:27:32] [XCZBO][XCZBO][Used Item Bag] : (0)(X:114/Y:219)
+[22:27:32] Item Drop [0][114][219] : serial:90 [Battle Axe][4][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:27:38] [XCZBO][XCZBO][0]115/218 Get serial:90 [Battle Axe][517][4][0][0][0] dur:[40]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:27:41] [MoveMap][fast][Tomi] : (Before:Map:2 X:187 Y:35) -> (New Map:2 X:202 Y:35)
+[22:27:41] [fast][Tomi] [Using Warp to: Devias] Success : reduces money 1999995000 - 20
+[22:27:49] [UserSelClose] Go ServerList [fast][Tomi] Map:[2][200/41]
+[22:27:53] [ItemShop] [Idk288][Conqueror] Opened shop
+[22:27:55] [fast][Tomi] Item Save Complete. Money [ 1999995000 ]
+[22:27:55] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[1] QS[91]
+[22:27:55] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[18] QS[9]
+[22:27:55] [MuunInvenItem] [fast][Tomi] Muun Item Save Complete.
+[22:27:55] (12023)(fast)(Tomi) Character closed
+[22:27:55] (12023)Logout Request : fast [186.182.173.58]
+[22:27:55] (12023)Disconnected :  [186.182.173.58]
+[22:27:56] Using transformation ring : XCZBO : 1
+[22:27:56] [ItemShop] [Idk288][Conqueror] Closed shop
+[22:28:01] [Single] Experience : Map[Lorencia]-(118,219) [XCZBO][XCZBO](51) Experience: 1475000 + 197000  MonsterClass : 14
+[22:28:01] Level Up [XCZBO][XCZBO][52]
+[22:28:03] [QuestExp] Ask Kill Monster [XCZBO][XCZBO] Ep[18] QS[10] MonName[Skeleton] AskKillCnt[20] KillCnt[12] 
+[22:28:03] Item Create Request [Skeleton] [0][118][220] : [Golden Crossbow][2][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:28:03] Item Drop [0][118][220] : serial:91 [Golden Crossbow][2][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:28:04] [Kanturu][Battle Standby] State(1) -> NOTIFY
+[22:28:06] [XCZBO][XCZBO][0]118/220 Get serial:91 [Golden Crossbow][2057][2][1][0][0] dur:[28]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:28:28] [Single] Experience : Map[Lorencia]-(126,229) [XCZBO][XCZBO](52) Experience: 1560600 + 193000  MonsterClass : 14
+[22:28:28] Level Up [XCZBO][XCZBO][53]
+[22:28:29] [QuestExp] Ask Kill Monster [XCZBO][XCZBO] Ep[18] QS[10] MonName[Skeleton] AskKillCnt[20] KillCnt[13] 
+[22:28:37] [Single] Experience : Map[Lorencia]-(130,233) [XCZBO][XCZBO](53) Experience: 1649440 + 102000  MonsterClass : 6
+[22:28:37] Level Up [XCZBO][XCZBO][54]
+[22:28:48] [Single] Experience : Map[Lorencia]-(136,219) [XCZBO][XCZBO](54) Experience: 1741580 + 100000  MonsterClass : 6
+[22:28:48] Level Up [XCZBO][XCZBO][55]
+[22:28:50] Item Create Request [LIch] [0][137][220] : [Jewel of Life][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:28:50] Item Drop [0][137][220] : serial:92 [Jewel of Life][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:28:56] [XCZBO][XCZBO][0]136/220 Get serial:92 [Jewel of Life][7184][0][0][0][0] dur:[1]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:29:02] [Single] Experience : Map[Lorencia]-(135,220) [XCZBO][XCZBO](55) Experience: 1837080 + 182000  MonsterClass : 14
+[22:29:02] Level Up [XCZBO][XCZBO][56]
+[22:29:03] [QuestExp] Ask Kill Monster [XCZBO][XCZBO] Ep[18] QS[10] MonName[Skeleton] AskKillCnt[20] KillCnt[14] 
+[22:29:03] Item Create Request [Skeleton] [0][135][221] : [Small Axe][6][1][0][2] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:29:03] Item Drop [0][135][221] : serial:93 [Small Axe][6][1][0][2] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:29:04] [Kanturu][Battle Standby] State(2) -> END
+[22:29:04] [Kanturu][Battle Standby] State(3) -> NONE
+[22:29:04] [Kanturu][MapAttrChange] Map(0) State(1) DetailState(0)
+[22:29:04] [Kanturu] State(1) -> BATTLE_OF_MAYA
+[22:29:04] [Kanturu][Battle of Maya] State(0) -> STANBY1
+[22:29:13] [Single] Experience : Map[Lorencia]-(142,220) [XCZBO][XCZBO](56) Experience: 1936000 + 178000  MonsterClass : 14
+[22:29:13] Level Up [XCZBO][XCZBO][57]
+[22:29:14] Item has disappeared (Small Axe:512 / Level: 6 / Skill: 0 / Serial: 93)
+[22:29:14] [QuestExp] Ask Kill Monster [XCZBO][XCZBO] Ep[18] QS[10] MonName[Skeleton] AskKillCnt[20] KillCnt[15] 
+[22:29:23] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:55 Y:80
+[22:29:23] [Single] Experience : Map[Lorencia]-(142,221) [XCZBO][XCZBO](57) Experience: 2038400 + 95000  MonsterClass : 6
+[22:29:25] Item Create Request [LIch] [0][141][221] : [Leather Boots][3][0][1][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:29:25] Item Drop [0][141][221] : serial:94 [Leather Boots][3][0][1][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:29:27] [XCZBO][XCZBO][0]142/221 Get serial:94 [Leather Boots][5637][3][0][1][0] dur:[33]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:29:28] [Idk288][Conqueror] Item Save Complete. Money [ 0 ]
+[22:29:28] [MuunInvenItem] [Idk288][Conqueror] Muun Item Save Complete.
+[22:29:31] Using transformation ring : XCZBO : 3
+[22:29:40] [XCZBO][XCZBO] Item Save Complete. Money [ 61048 ]
+[22:29:40] [QuestExp] AllQuestInfoSave [XCZBO][XCZBO] EP[2] QS[11] AskIndex[0x1] AskValue[0] AskState[0]
+[22:29:40] [QuestExp] AllQuestInfoSave [XCZBO][XCZBO] EP[4] QS[9]
+[22:29:40] [QuestExp] AllQuestInfoSave [XCZBO][XCZBO] EP[18] QS[10] AskIndex[0x1] AskValue[15] AskState[0]
+[22:29:40] [MuunInvenItem] [XCZBO][XCZBO] Muun Item Save Complete.
+[22:29:43] [QuestExp] Selection Episode List Choose One [Idk288][Conqueror] QuestInfoIndexID[0x10000] Choose[0]
+[22:29:43] [QuestExp] Set Quest Switch [Idk288][Conqueror] EP[1] QS[0]
+[22:29:43] [QuestExp] - Ans Send User : Selection Statements Choose One [Idk288][Conqueror] QuestIndexID[0x10000]
+[22:29:44] [Single] Experience : Map[Lorencia]-(141,214) [XCZBO][XCZBO](57) Experience: 2133400 + 176000  MonsterClass : 14
+[22:29:44] Level Up [XCZBO][XCZBO][58]
+[22:29:45] [QuestExp] Ask Kill Monster [XCZBO][XCZBO] Ep[18] QS[10] MonName[Skeleton] AskKillCnt[20] KillCnt[16] 
+[22:29:47] [Single] Experience : Map[Lorencia]-(141,214) [XCZBO][XCZBO](58) Experience: 2144340 + 93000  MonsterClass : 6
+[22:29:48] Item Create Request [LIch] [0][142][215] : [Short Sword][3][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:29:48] Item Drop [0][142][215] : serial:95 [Short Sword][3][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:29:49] [XCZBO][XCZBO][0]143/214 Get serial:95 [Short Sword][1][3][0][0][0] dur:[25]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:29:57] Using transformation ring : XCZBO : 3
+[22:30:00] [QuestExp] Selection Episode List Choose One [Idk288][Conqueror] QuestInfoIndexID[0x10000] Choose[0]
+[22:30:00] [QuestExp] - Ans Send User : Selection Statements Choose One [Idk288][Conqueror] QuestIndexID[0x10000]
+[22:30:02] [Blood Castle] (1) SetState PLAYING
+[22:30:02] [Blood Castle] (2) SetState PLAYING
+[22:30:02] [Blood Castle] (3) SetState PLAYING
+[22:30:02] [Blood Castle] (4) SetState PLAYING
+[22:30:02] [Blood Castle] (5) SetState PLAYING
+[22:30:02] [Blood Castle] (6) SetState PLAYING
+[22:30:02] [Blood Castle] (7) SetState PLAYING
+[22:30:02] [Blood Castle] (8) SetState PLAYING
+[22:30:03] [ItemShop] [Idk288][Conqueror] Opened shop
+[22:30:03] [Blood Castle] (1) Blood Castle Quest Fail Result -> Destroy Castle Door [][]
+[22:30:03] [Blood Castle] (1) Blood Castle Quest Fail Result -> Destroy Saint Status [][]
+[22:30:03] [Blood Castle] (1) Perform to Delete Monsters (ClearDoor:1)
+[22:30:03] [Blood Castle] (1) Deleted Monsters (Count:0)
+[22:30:03] [Blood Castle] (1) Sync Open Time. [119] min remain
+[22:30:03] [Blood Castle] (1) SetState CLOSED
+[22:30:03] [Blood Castle] (1) Blood Castle Quest Failed -> Every User Out
+[22:30:03] [Blood Castle] (2) Blood Castle Quest Fail Result -> Destroy Castle Door [][]
+[22:30:03] [Blood Castle] (2) Blood Castle Quest Fail Result -> Destroy Saint Status [][]
+[22:30:03] [Blood Castle] (2) Perform to Delete Monsters (ClearDoor:1)
+[22:30:03] [Blood Castle] (2) Deleted Monsters (Count:0)
+[22:30:03] [Blood Castle] (2) Sync Open Time. [119] min remain
+[22:30:03] [Blood Castle] (2) SetState CLOSED
+[22:30:03] [Blood Castle] (2) Blood Castle Quest Failed -> Every User Out
+[22:30:03] [Blood Castle] (3) Blood Castle Quest Fail Result -> Destroy Castle Door [][]
+[22:30:03] [Blood Castle] (3) Blood Castle Quest Fail Result -> Destroy Saint Status [][]
+[22:30:03] [Blood Castle] (3) Perform to Delete Monsters (ClearDoor:1)
+[22:30:03] [Blood Castle] (3) Deleted Monsters (Count:0)
+[22:30:03] [Blood Castle] (3) Sync Open Time. [119] min remain
+[22:30:03] [Blood Castle] (3) SetState CLOSED
+[22:30:03] [Blood Castle] (3) Blood Castle Quest Failed -> Every User Out
+[22:30:03] [Blood Castle] (4) Blood Castle Quest Fail Result -> Destroy Castle Door [][]
+[22:30:03] [Blood Castle] (4) Blood Castle Quest Fail Result -> Destroy Saint Status [][]
+[22:30:03] [Blood Castle] (4) Perform to Delete Monsters (ClearDoor:1)
+[22:30:03] [Blood Castle] (4) Deleted Monsters (Count:0)
+[22:30:03] [Blood Castle] (4) Sync Open Time. [119] min remain
+[22:30:03] [Blood Castle] (4) SetState CLOSED
+[22:30:03] [Blood Castle] (4) Blood Castle Quest Failed -> Every User Out
+[22:30:03] [Blood Castle] (5) Blood Castle Quest Fail Result -> Destroy Castle Door [][]
+[22:30:03] [Blood Castle] (5) Blood Castle Quest Fail Result -> Destroy Saint Status [][]
+[22:30:03] [Blood Castle] (5) Perform to Delete Monsters (ClearDoor:1)
+[22:30:03] [Blood Castle] (5) Deleted Monsters (Count:0)
+[22:30:03] [Blood Castle] (5) Sync Open Time. [119] min remain
+[22:30:03] [Blood Castle] (5) SetState CLOSED
+[22:30:03] [Blood Castle] (5) Blood Castle Quest Failed -> Every User Out
+[22:30:03] [Blood Castle] (6) Blood Castle Quest Fail Result -> Destroy Castle Door [][]
+[22:30:03] [Blood Castle] (6) Blood Castle Quest Fail Result -> Destroy Saint Status [][]
+[22:30:03] [Blood Castle] (6) Perform to Delete Monsters (ClearDoor:1)
+[22:30:03] [Blood Castle] (6) Deleted Monsters (Count:0)
+[22:30:03] [Blood Castle] (6) Sync Open Time. [119] min remain
+[22:30:03] [Blood Castle] (6) SetState CLOSED
+[22:30:03] [Blood Castle] (6) Blood Castle Quest Failed -> Every User Out
+[22:30:03] [Blood Castle] (7) Blood Castle Quest Fail Result -> Destroy Castle Door [][]
+[22:30:03] [Blood Castle] (7) Blood Castle Quest Fail Result -> Destroy Saint Status [][]
+[22:30:03] [Blood Castle] (7) Perform to Delete Monsters (ClearDoor:1)
+[22:30:03] [Blood Castle] (7) Deleted Monsters (Count:0)
+[22:30:03] [Blood Castle] (7) Sync Open Time. [119] min remain
+[22:30:03] [Blood Castle] (7) SetState CLOSED
+[22:30:03] [Blood Castle] (7) Blood Castle Quest Failed -> Every User Out
+[22:30:03] [Blood Castle] (8) Blood Castle Quest Fail Result -> Destroy Castle Door [][]
+[22:30:03] [Blood Castle] (8) Blood Castle Quest Fail Result -> Destroy Saint Status [][]
+[22:30:03] [Blood Castle] (8) Perform to Delete Monsters (ClearDoor:1)
+[22:30:03] [Blood Castle] (8) Deleted Monsters (Count:0)
+[22:30:03] [Blood Castle] (8) Sync Open Time. [119] min remain
+[22:30:03] [Blood Castle] (8) SetState CLOSED
+[22:30:03] [Blood Castle] (8) Blood Castle Quest Failed -> Every User Out
+[22:30:06] [Single] Experience : Map[Lorencia]-(140,211) [XCZBO][XCZBO](58) Experience: 2237340 + 173000  MonsterClass : 14
+[22:30:06] Level Up [XCZBO][XCZBO][59]
+[22:30:08] [QuestExp] Ask Kill Monster [XCZBO][XCZBO] Ep[18] QS[10] MonName[Skeleton] AskKillCnt[20] KillCnt[17] 
+[22:30:13] Connection Accept : [12024][186.182.173.58]
+[22:30:22] Attempt to Login : (12024)fast (MachineID:1051-4E4B-5E3C-9DA0-9357-115B-2D40-B4F9)
+[22:30:22] Login [186.182.173.58] : (fast) number: 23 / DB: 1
+[22:30:22] [fast] VIP Info Set [Type: 0] [Effect: -1]
+[22:30:23] [fast][] BillType : (NoCharge)
+[22:30:23] You are logged in as Free Player
+[22:30:24] [gObjMagicAdd] (Tomi) 1 - Skill:44, Level:0
+[22:30:24] [gObjMagicAdd] (Tomi) 2 - Skill:67, Level:0
+[22:30:24] [gObjMagicAdd] (Tomi) 3 - Skill:68, Level:0
+[22:30:24] [gObjMagicAdd] (Tomi) 4 - Skill:69, Level:0
+[22:30:24] [gObjMagicAdd] (Tomi) 5 - Skill:70, Level:0
+[22:30:24] [gObjMagicAdd] (Tomi) 6 - Skill:71, Level:0
+[22:30:24] [gObjMagicAdd] (Tomi) 7 - Skill:72, Level:0
+[22:30:24] (fast)(Tomi) Set Event GM
+[22:30:24] (12024)(fast)(Tomi) Character select
+[22:30:24] [ShieldSystem][CalcSDPoint] [fast][Tomi] user SD Gage : 1896
+[22:30:24] [MapServerMng] CheckMoveMapSvr() - MapServer Check OK [fast][Tomi] : MAP-2 / SVR-0 (State Map:2 X:200 Y:41)
+[22:30:24] [FRUIT System] [fast][Tomi] (MinusPoint:0/PlusPoint:-740) (MaxMinus:56/MaxPlus:56)
+[22:30:24] [FRUIT System] Character Stat Error [fast][Tomi] (MinusPoint:0/PlusPoint:-740) (MaxMinus:56/MaxPlus:56)
+[22:30:24] [Quest] QuestSave [fast][Tomi] index(0) name(Find the 'Scroll of Emperor'!) state(Accept)
+[22:30:24] [Quest] QuestSave [fast][Tomi] index(1) name(Four Treasures of Mu) state(None)
+[22:30:24] [Quest] QuestSave [fast][Tomi] index(2) name(Gain 'Hero status') state(None)
+[22:30:24] [Quest] QuestSave [fast][Tomi] index(3) name(Secret of 'Dark Stone') state(None)
+[22:30:24] [Quest] QuestSave [fast][Tomi] index(4) name(Certificate of 'Strength!') state(None)
+[22:30:24] [Quest] QuestSave [fast][Tomi] index(5) name(Infiltration of 'Barrack') state(None)
+[22:30:24] [Quest] QuestSave [fast][Tomi] index(6) name(Infiltration of 'Refuge') state(None)
+[22:30:24] [Tomi] Friend List Request
+[22:30:24] [Tomi] Friend List Count (0) Send
+[22:30:24] [GensSystem] Get DB GensInfo [fast][Tomi] GensName [NONE_INFLUENCE]
+[22:30:24] [MuunInvenItem] [fast][Tomi] ItemCount[0] Muun Item Load Complete.
+[22:30:24] [PeriodItemEx][SelectItemListCount] End PeriodItem List Receive User Id : fast(1), Name : Tomi
+[22:30:34] Using transformation ring : Tomi : 0
+[22:30:44] [Quest] Quest Clear (Find the 'Scroll of Emperor'!) : [fast][Tomi] Stat(235,10)
+[22:30:44] [DeleteItem] [fast][Tomi] Delete (14,23)(58)
+[22:30:44] [Quest] ClearQuest [fast][Tomi] (Find the 'Scroll of Emperor'!)
+[22:30:52] [Quest] AcceptQuest [fast][Tomi] (Four Treasures of Mu)
+[22:30:53] [Quest] Quest Clear (Four Treasures of Mu) : [fast][Tomi] Stat(245,10), ChangeUp
+[22:30:53] [DeleteItem] [fast][Tomi] Delete (14,24)(62)
+[22:30:53] [Quest] ClearQuest [fast][Tomi] (Four Treasures of Mu)
+[22:30:56] [Single] Experience : Map[Lorencia]-(152,219) [XCZBO][XCZBO](59) Experience: 2253880 + 170000  MonsterClass : 14
+[22:30:56] Level Up [XCZBO][XCZBO][60]
+[22:30:58] [QuestExp] Ask Kill Monster [XCZBO][XCZBO] Ep[18] QS[10] MonName[Skeleton] AskKillCnt[20] KillCnt[18] 
+[22:31:00] Using transformation ring : Tomi : 0
+[22:31:02] Marlon RefCount Inc = 1
+[22:31:02] [Single] Experience : Map[Lorencia]-(157,222) [XCZBO][XCZBO](60) Experience: 2367080 + 90000  MonsterClass : 6
+[22:31:03] [Kanturu][Battle of Maya] State(1) -> NOTIFY1
+[22:31:03] [Kanturu][Battle of Maya] Fail!! All Battle User Die - DetailState:2
+[22:31:03] [Kanturu][Battle of Maya] State(2) -> END
+[22:31:03] [Kanturu][Battle of Maya] Success Value[0]
+[22:31:05] [Kanturu][Battle of Maya] State(17) -> ENDCYCLE
+[22:31:05] [Kanturu][Battle of Maya] State(18) -> NONE
+[22:31:05] [Kanturu][MapAttrChange] Map(0) State(2) DetailState(0)
+[22:31:05] [Kanturu] State(2) -> END
+[22:31:05] [Kanturu][MapAttrChange] Map(0) State(5) DetailState(0)
+[22:31:05] [Kanturu] State(5) -> NONE
+[22:31:05] [Kanturu][MapAttrChange] Map(0) State(0) DetailState(0)
+[22:31:05] [Kanturu] State(0) -> STANDBY
+[22:31:05] [Kanturu][Battle Standby]] State(0) -> START
+[22:31:05] [Kanturu][Time Attack] Date:20210120, Counter:5
+[22:31:05] [Quest] AcceptQuest [fast][Tomi] (Gain 'Hero status')
+[22:31:05] Marlon RefCount Dec= 0
+[22:31:07] Marlon RefCount Inc = 1
+[22:31:08] Marlon RefCount Dec= 0
+[22:31:09] [Single] Experience : Map[Lorencia]-(164,226) [XCZBO][XCZBO](60) Experience: 2457080 + 90000  MonsterClass : 6
+[22:31:09] Level Up [XCZBO][XCZBO][61]
+[22:31:10] [UserSelClose] Go CharSelect [fast][Tomi] Map:[2][186/31]
+[22:31:16] [fast][Tomi] Item Save Complete. Money [ 1994995000 ]
+[22:31:16] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[1] QS[91]
+[22:31:16] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[18] QS[9]
+[22:31:16] [MuunInvenItem] [fast][Tomi] Muun Item Save Complete.
+[22:31:16] (12024)(fast)(Tomi) Character closed
+[22:31:19] [Single] Experience : Map[Lorencia]-(161,234) [XCZBO][XCZBO](61) Experience: 2484000 + 165000  MonsterClass : 14
+[22:31:19] Level Up [XCZBO][XCZBO][62]
+[22:31:20] [QuestExp] Ask Kill Monster [XCZBO][XCZBO] Ep[18] QS[10] MonName[Skeleton] AskKillCnt[20] KillCnt[19] 
+[22:31:23] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:58 Y:72
+[22:31:29] [Single] Experience : Map[Lorencia]-(166,231) [XCZBO][XCZBO](62) Experience: 2604700 + 162000  MonsterClass : 14
+[22:31:29] Level Up [XCZBO][XCZBO][63]
+[22:31:30] [QuestExp] Ask Kill Monster [XCZBO][XCZBO] Ep[18] QS[10] MonName[Skeleton] AskKillCnt[20] KillCnt[20] 
+[22:31:34] [Single] Experience : Map[Lorencia]-(166,228) [XCZBO][XCZBO](63) Experience: 2729240 + 10000  MonsterClass : 2
+[22:31:51] [Single] Experience : Map[Lorencia]-(148,222) [XCZBO][XCZBO](63) Experience: 2739240 + 158000  MonsterClass : 14
+[22:31:51] Level Up [XCZBO][XCZBO][64]
+[22:32:04] [Single] Experience : Map[Lorencia]-(153,206) [XCZBO][XCZBO](64) Experience: 2857680 + 85000  MonsterClass : 6
+[22:32:09] [Single] Experience : Map[Lorencia]-(153,206) [XCZBO][XCZBO](64) Experience: 2942680 + 156000  MonsterClass : 14
+[22:32:09] Level Up [XCZBO][XCZBO][65]
+[22:32:16] [ItemShop] [Idk288][Conqueror] Closed shop
+[22:32:20] [Single] Experience : Map[Lorencia]-(153,193) [XCZBO][XCZBO](65) Experience: 2990080 + 83000  MonsterClass : 6
+[22:32:21] Item Create Request [LIch] [0][152][194] : [Small Axe][4][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:32:21] Item Drop [0][152][194] : serial:96 [Small Axe][4][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:32:23] [gObjMagicAdd] (Tomi) 1 - Skill:44, Level:0
+[22:32:23] [gObjMagicAdd] (Tomi) 2 - Skill:67, Level:0
+[22:32:23] [gObjMagicAdd] (Tomi) 3 - Skill:68, Level:0
+[22:32:23] [gObjMagicAdd] (Tomi) 4 - Skill:69, Level:0
+[22:32:23] [gObjMagicAdd] (Tomi) 5 - Skill:70, Level:0
+[22:32:23] [gObjMagicAdd] (Tomi) 6 - Skill:71, Level:0
+[22:32:23] [gObjMagicAdd] (Tomi) 7 - Skill:72, Level:0
+[22:32:23] (fast)(Tomi) Set Event GM
+[22:32:23] (12024)(fast)(Tomi) Character select
+[22:32:23] [ShieldSystem][CalcSDPoint] [fast][Tomi] user SD Gage : 1896
+[22:32:23] [MapServerMng] CheckMoveMapSvr() - MapServer Check OK [fast][Tomi] : MAP-2 / SVR-0 (State Map:2 X:188 Y:33)
+[22:32:23] [FRUIT System] [fast][Tomi] (MinusPoint:0/PlusPoint:-740) (MaxMinus:56/MaxPlus:56)
+[22:32:23] [FRUIT System] Character Stat Error [fast][Tomi] (MinusPoint:0/PlusPoint:-740) (MaxMinus:56/MaxPlus:56)
+[22:32:23] [Quest] QuestSave [fast][Tomi] index(0) name(Find the 'Scroll of Emperor'!) state(Clear)
+[22:32:23] [Quest] QuestSave [fast][Tomi] index(1) name(Four Treasures of Mu) state(Clear)
+[22:32:23] [Quest] QuestSave [fast][Tomi] index(2) name(Gain 'Hero status') state(Accept)
+[22:32:23] [Quest] QuestSave [fast][Tomi] index(3) name(Secret of 'Dark Stone') state(None)
+[22:32:23] [Quest] QuestSave [fast][Tomi] index(4) name(Certificate of 'Strength!') state(None)
+[22:32:23] [Quest] QuestSave [fast][Tomi] index(5) name(Infiltration of 'Barrack') state(None)
+[22:32:23] [Quest] QuestSave [fast][Tomi] index(6) name(Infiltration of 'Refuge') state(None)
+[22:32:23] [Tomi] Friend List Request
+[22:32:23] [Tomi] Friend List Count (0) Send
+[22:32:23] [GensSystem] Get DB GensInfo [fast][Tomi] GensName [NONE_INFLUENCE]
+[22:32:23] [MuunInvenItem] [fast][Tomi] ItemCount[0] Muun Item Load Complete.
+[22:32:23] [PeriodItemEx][SelectItemListCount] End PeriodItem List Receive User Id : fast(1), Name : Tomi
+[22:32:24] [Single] Experience : Map[Lorencia]-(154,192) [XCZBO][XCZBO](65) Experience: 3073080 + 83000  MonsterClass : 6
+[22:32:24] Level Up [XCZBO][XCZBO][66]
+[22:32:30] Marlon RefCount Inc = 1
+[22:32:31] [Single] Experience : Map[Lorencia]-(154,192) [XCZBO][XCZBO](66) Experience: 3126500 + 152000  MonsterClass : 14
+[22:32:31] Level Up [XCZBO][XCZBO][67]
+[22:32:31] [Quest] Quest Clear (Gain 'Hero status') : [fast][Tomi] Stat(246,1), PlusStat
+[22:32:31] [DeleteItem] [fast][Tomi] Delete (14,23)(55)
+[22:32:31] [Quest] ClearQuest [fast][Tomi] (Gain 'Hero status')
+[22:32:31] Marlon RefCount Dec= 0
+[22:32:32] Item has disappeared (Small Axe:512 / Level: 4 / Skill: 0 / Serial: 96)
+[22:32:32] [XCZBO][XCZBO][0]153/193 Get serial:96 [Small Axe][512][4][0][1][0] dur:[22]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:32:36] Marlon RefCount Inc = 1
+[22:32:40] [Single] Experience : Map[Lorencia]-(158,195) [XCZBO][XCZBO](67) Experience: 3267000 + 150000  MonsterClass : 14
+[22:32:40] Level Up [XCZBO][XCZBO][68]
+[22:32:40] [Quest] AcceptQuest [fast][Tomi] (Secret of 'Dark Stone')
+[22:32:40] Marlon RefCount Dec= 0
+[22:32:42] Marlon RefCount Inc = 1
+[22:32:43] Marlon RefCount Dec= 0
+[22:32:49] [Single] Experience : Map[Lorencia]-(157,196) [XCZBO][XCZBO](68) Experience: 3411640 + 147000  MonsterClass : 14
+[22:33:02] [UserSelClose] Go CharSelect [fast][Tomi] Map:[2][191/32]
+[22:33:06] [Single] Experience : Map[Lorencia]-(139,184) [XCZBO][XCZBO](68) Experience: 3558640 + 147000  MonsterClass : 14
+[22:33:06] Level Up [XCZBO][XCZBO][69]
+[22:33:08] [fast][Tomi] Item Save Complete. Money [ 1992995000 ]
+[22:33:08] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[1] QS[91]
+[22:33:08] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[18] QS[9]
+[22:33:08] [MuunInvenItem] [fast][Tomi] Muun Item Save Complete.
+[22:33:08] (12024)(fast)(Tomi) Character closed
+[22:33:10] [gObjMagicAdd] (Tomi) 1 - Skill:44, Level:0
+[22:33:10] [gObjMagicAdd] (Tomi) 2 - Skill:67, Level:0
+[22:33:10] [gObjMagicAdd] (Tomi) 3 - Skill:68, Level:0
+[22:33:10] [gObjMagicAdd] (Tomi) 4 - Skill:69, Level:0
+[22:33:10] [gObjMagicAdd] (Tomi) 5 - Skill:70, Level:0
+[22:33:10] [gObjMagicAdd] (Tomi) 6 - Skill:71, Level:0
+[22:33:10] [gObjMagicAdd] (Tomi) 7 - Skill:72, Level:0
+[22:33:10] (fast)(Tomi) Set Event GM
+[22:33:10] (12024)(fast)(Tomi) Character select
+[22:33:10] [ShieldSystem][CalcSDPoint] [fast][Tomi] user SD Gage : 1896
+[22:33:10] [MapServerMng] CheckMoveMapSvr() - MapServer Check OK [fast][Tomi] : MAP-2 / SVR-0 (State Map:2 X:191 Y:32)
+[22:33:10] [FRUIT System] [fast][Tomi] (MinusPoint:0/PlusPoint:-740) (MaxMinus:56/MaxPlus:56)
+[22:33:10] [FRUIT System] Character Stat Error [fast][Tomi] (MinusPoint:0/PlusPoint:-740) (MaxMinus:56/MaxPlus:56)
+[22:33:10] [Quest] QuestSave [fast][Tomi] index(0) name(Find the 'Scroll of Emperor'!) state(Clear)
+[22:33:10] [Quest] QuestSave [fast][Tomi] index(1) name(Four Treasures of Mu) state(Clear)
+[22:33:10] [Quest] QuestSave [fast][Tomi] index(2) name(Gain 'Hero status') state(Clear)
+[22:33:10] [Quest] QuestSave [fast][Tomi] index(3) name(Secret of 'Dark Stone') state(Accept)
+[22:33:10] [Quest] QuestSave [fast][Tomi] index(4) name(Certificate of 'Strength!') state(None)
+[22:33:10] [Quest] QuestSave [fast][Tomi] index(5) name(Infiltration of 'Barrack') state(None)
+[22:33:10] [Quest] QuestSave [fast][Tomi] index(6) name(Infiltration of 'Refuge') state(None)
+[22:33:10] [Tomi] Friend List Request
+[22:33:10] [Tomi] Friend List Count (0) Send
+[22:33:10] [GensSystem] Get DB GensInfo [fast][Tomi] GensName [NONE_INFLUENCE]
+[22:33:10] [MuunInvenItem] [fast][Tomi] ItemCount[0] Muun Item Load Complete.
+[22:33:10] [PeriodItemEx][SelectItemListCount] End PeriodItem List Receive User Id : fast(1), Name : Tomi
+[22:33:14] [ CHECK POSITION ] MoveMosterProc [XCZBO][XCZBO] Map[0]-(141,169) User(141,170) Can not Move Position Attr[4]
+[22:33:16] [UserSelClose] Go CharSelect [fast][Tomi] Map:[2][189/32]
+[22:33:17] [Single] Experience : Map[Lorencia]-(138,169) [XCZBO][XCZBO](69) Experience: 3560480 + 78000  MonsterClass : 6
+[22:33:19] Item Create Request [LIch] [0][137][170] : [Leather Armor][1][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:33:19] Item Drop [0][137][170] : serial:97 [Leather Armor][1][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:33:22] [fast][Tomi] Item Save Complete. Money [ 1992995000 ]
+[22:33:22] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[1] QS[91]
+[22:33:22] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[18] QS[9]
+[22:33:22] [MuunInvenItem] [fast][Tomi] Muun Item Save Complete.
+[22:33:22] (12024)(fast)(Tomi) Character closed
+[22:33:22] [XCZBO][XCZBO][0]137/171 Get serial:97 [Leather Armor][4101][1][0][0][0] dur:[31]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:33:23] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:59 Y:75
+[22:33:25] [KUNDUN][Status Log] HP:5000000 RefillHP:5573 Map:36 X:57 Y:77
+[22:33:25] [gObjMagicAdd] (Tomi) 1 - Skill:44, Level:0
+[22:33:25] [gObjMagicAdd] (Tomi) 2 - Skill:67, Level:0
+[22:33:25] [gObjMagicAdd] (Tomi) 3 - Skill:68, Level:0
+[22:33:25] [gObjMagicAdd] (Tomi) 4 - Skill:69, Level:0
+[22:33:25] [gObjMagicAdd] (Tomi) 5 - Skill:70, Level:0
+[22:33:25] [gObjMagicAdd] (Tomi) 6 - Skill:71, Level:0
+[22:33:25] [gObjMagicAdd] (Tomi) 7 - Skill:72, Level:0
+[22:33:25] (fast)(Tomi) Set Event GM
+[22:33:25] (12024)(fast)(Tomi) Character select
+[22:33:25] [ShieldSystem][CalcSDPoint] [fast][Tomi] user SD Gage : 1896
+[22:33:25] [MapServerMng] CheckMoveMapSvr() - MapServer Check OK [fast][Tomi] : MAP-2 / SVR-0 (State Map:2 X:189 Y:32)
+[22:33:25] [FRUIT System] [fast][Tomi] (MinusPoint:0/PlusPoint:-740) (MaxMinus:56/MaxPlus:56)
+[22:33:25] [FRUIT System] Character Stat Error [fast][Tomi] (MinusPoint:0/PlusPoint:-740) (MaxMinus:56/MaxPlus:56)
+[22:33:25] [Quest] QuestSave [fast][Tomi] index(0) name(Find the 'Scroll of Emperor'!) state(Clear)
+[22:33:25] [Quest] QuestSave [fast][Tomi] index(1) name(Four Treasures of Mu) state(Clear)
+[22:33:25] [Quest] QuestSave [fast][Tomi] index(2) name(Gain 'Hero status') state(Clear)
+[22:33:25] [Quest] QuestSave [fast][Tomi] index(3) name(Secret of 'Dark Stone') state(Accept)
+[22:33:25] [Quest] QuestSave [fast][Tomi] index(4) name(Certificate of 'Strength!') state(None)
+[22:33:25] [Quest] QuestSave [fast][Tomi] index(5) name(Infiltration of 'Barrack') state(None)
+[22:33:25] [Quest] QuestSave [fast][Tomi] index(6) name(Infiltration of 'Refuge') state(None)
+[22:33:25] [Tomi] Friend List Request
+[22:33:25] [Tomi] Friend List Count (0) Send
+[22:33:25] [GensSystem] Get DB GensInfo [fast][Tomi] GensName [NONE_INFLUENCE]
+[22:33:25] [MuunInvenItem] [fast][Tomi] ItemCount[0] Muun Item Load Complete.
+[22:33:25] [PeriodItemEx][SelectItemListCount] End PeriodItem List Receive User Id : fast(1), Name : Tomi
+[22:33:29] Marlon RefCount Inc = 1
+[22:33:30] [Quest] Quest Clear (Secret of 'Dark Stone') : [fast][Tomi] ComboSkill
+[22:33:30] [DeleteItem] [fast][Tomi] Delete (14,24)(65)
+[22:33:30] [Quest] ClearQuest [fast][Tomi] (Secret of 'Dark Stone')
+[22:33:30] Marlon RefCount Dec= 0
+[22:33:44] [MapServerMng] CheckMoveMapSvr() - MapServer Check OK [fast][Tomi] : MAP-0 / SVR-0 (State Map:2 X:189 Y:30)
+[22:33:44] [MoveMap][fast][Tomi] : (Before:Map:2 X:189 Y:30) -> (New Map:0 X:141 Y:121)
+[22:33:44] [fast][Tomi] [Using Warp to: Lorencia] Success : reduces money 1992993000 - 10
+[22:33:46] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:240 Pad Armor:0/0/0/0/88 Dur:28 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:33:47] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:710 Bone Gloves:1/0/0/0/76 Dur:31 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:33:49] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:860 Golden Crossbow:0/1/0/0/77 Dur:26 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:33:51] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:860 Sword of Assassin:0/1/1/0/83 Dur:24 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:33:53] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:1000 Golden Crossbow:0/1/1/0/79 Dur:26 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:33:55] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:2200 Elven Bow:4/0/0/0/81 Dur:32 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:33:57] Using transformation ring : XCZBO : 1
+[22:34:01] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:26 Small Axe:0/0/1/0/49 Dur:11 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:34:24] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:190 Mace:1/0/0/0/89 Dur:22 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:34:26] Using transformation ring : XCZBO : 4
+[22:34:29] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:50 Small Axe:1/0/0/0/41 Dur:19 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:34:36] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:6000 Battle Axe:4/0/0/0/90 Dur:40 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:34:39] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:2000 Golden Crossbow:2/1/0/0/91 Dur:28 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:34:41] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:1000 Orb of Greater Fortitude:0/0/0/0/86 Dur:0 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:34:43] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:32 Transformation Ring:0/0/0/0/80 Dur:197 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:35:00] count:2
+[22:35:04] [XCZBO][XCZBO] Item Save Complete. Money [ 76648 ]
+[22:35:04] [XCZBO][XCZBO] Store Save Complete. wMoney[0]
+[22:35:04] [XCZBO][XCZBO] Warehouse save OK (WindowClose:1)
+[22:35:25] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:43 Y:79
+[22:36:18] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[3] QS[18]
+[22:36:18] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[2] QS[11] QuestListCnt[4]
+[22:36:18] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[3] QS[18] QuestListCnt[4]
+[22:36:18] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[4] QS[9] QuestListCnt[4]
+[22:36:18] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[18] QS[10] QuestListCnt[4]
+[22:36:27] Message copy 44
+[22:36:29] [Monster][Cursed San] Killed [XCZBO][XCZBO] Pos:(0,86,136)
+[22:36:29] [XCZBO][XCZBO] Death reduces Experience 1372480 - 1372416
+[22:36:29] [XCZBO][XCZBO] Death reduces money 75882 - 766
+[22:36:32] [ItemShop] [Idk288][Conqueror] Opened shop
+[22:36:33] [ItemShop] [Idk288][Conqueror] Closed shop
+[22:36:34] [ItemShop] [Idk288][Conqueror] Opened shop
+[22:36:35] [MapServerMng] CheckMoveMapSvr() - MapServer Check OK [XCZBO][XCZBO] : MAP-0 / SVR-0 (State Map:0 X:149 Y:132)
+[22:36:35] [ItemShop] [Idk288][Conqueror] Closed shop
+[22:36:35] [ItemShop] [Idk288][Conqueror] Opened shop
+[22:36:58] [ItemShop] [Idk288][Conqueror] Closed shop
+[22:37:01] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[2] QS[11] QuestListCnt[4]
+[22:37:01] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[3] QS[18] QuestListCnt[4]
+[22:37:01] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[4] QS[9] QuestListCnt[4]
+[22:37:01] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[18] QS[10] QuestListCnt[4]
+[22:37:25] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:38 Y:89
+[22:37:32] [XCZBO][XCZBO] Shop buy [MAP:0][X:127][Y:86] [80][0][80] [Small Healing Potion] LEV:0, DUR:1, OP:[0][0][0]
+[22:37:33] [XCZBO][XCZBO] Shop buy [MAP:0][X:127][Y:86] [80][0][80] [Small Healing Potion] LEV:0, DUR:1, OP:[0][0][0]
+[22:37:42] [XCZBO][XCZBO] Shop buy [MAP:0][X:127][Y:86] [240][0][240] [Small Healing Potion] LEV:0, DUR:3, OP:[0][0][0]
+[22:37:43] [XCZBO][XCZBO] Shop buy [MAP:0][X:127][Y:86] [240][0][240] [Small Healing Potion] LEV:0, DUR:3, OP:[0][0][0]
+[22:38:44] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[2] QS[11] QuestListCnt[4]
+[22:38:44] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[3] QS[18] QuestListCnt[4]
+[22:38:44] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[4] QS[9] QuestListCnt[4]
+[22:38:44] [QuestExp] Send Quest List To NPC: [XCZBO][XCZBO] Ep[18] QS[10] QuestListCnt[4]
+[22:38:46] [QuestExp] Selection Episode List Choose One [XCZBO][XCZBO] QuestInfoIndexID[0x12000a] Choose[4]
+[22:38:46] [QuestExp] Send QuestInfo From NPC To User : [XCZBO][XCZBO] Ep[18] QS[10]
+[22:38:48] [QuestExp] ReqQuestComplete [XCZBO][XCZBO] QuestInfoIndexID[0x12000a]
+[22:38:48] [QuestExp] AskQuestComplete [XCZBO][XCZBO] Ep[18] QS[10]
+[22:38:48] [Quest Exp] Experience : Map[Lorencia]-(133,167) [XCZBO][XCZBO](69) Experience: 3635418 + 10000  MonsterClass : 0
+[22:38:48] [QuestExp] Reward Exp [XCZBO][XCZBO] Exp[10000] Ep[18] QS[10]
+[22:38:48] [QuestExp] Ans Complete [XCZBO][XCZBO] Ep [18] QS [10] Result [1]
+[22:38:48] [QuestExp] Set Quest Switch [XCZBO][XCZBO] EP[18] QS[15]
+[22:38:55] [Single] Experience : Map[Lorencia]-(127,180) [XCZBO][XCZBO](69) Experience: 3645418 + 78000  MonsterClass : 6
+[22:38:55] Level Up [XCZBO][XCZBO][70]
+[22:39:05] [Single] Experience : Map[Lorencia]-(114,188) [XCZBO][XCZBO](70) Experience: 3713580 + 77000  MonsterClass : 6
+[22:39:09] [Single] Experience : Map[Lorencia]-(112,186) [XCZBO][XCZBO](70) Experience: 3790580 + 77000  MonsterClass : 6
+[22:39:19] [Single] Experience : Map[Lorencia]-(108,190) [XCZBO][XCZBO](70) Experience: 3867580 + 77000  MonsterClass : 6
+[22:39:19] Level Up [XCZBO][XCZBO][71]
+[22:39:20] Item Create Request [LIch] [0][109][191] : [Rena][3][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:39:20] Item Drop [0][109][191] : serial:98 [Rena][3][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:39:21] [XCZBO][XCZBO][0]110/191 Get serial:98 [Rena][7189][3][0][0][0] dur:[1]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:39:25] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:51 Y:90
+[22:39:29] [Idk288][Conqueror] Item Save Complete. Money [ 0 ]
+[22:39:29] [QuestExp] AllQuestInfoSave [Idk288][Conqueror] EP[1] QS[0]
+[22:39:29] [MuunInvenItem] [Idk288][Conqueror] Muun Item Save Complete.
+[22:39:30] [Single] Experience : Map[Lorencia]-(119,199) [XCZBO][XCZBO](71) Experience: 3871000 + 76000  MonsterClass : 6
+[22:39:31] Item Create Request [LIch] [0][120][198] : [Blood Bone][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:39:31] Item Drop [0][120][198] : serial:99 [Blood Bone][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:39:31] [Single] Experience : Map[Lorencia]-(119,199) [XCZBO][XCZBO](71) Experience: 3947000 + 76000  MonsterClass : 6
+[22:39:32] [XCZBO][XCZBO][0]119/199 Get serial:99 [Blood Bone][6673][1][0][0][0] dur:[128]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:39:37] [Single] Experience : Map[Lorencia]-(117,204) [XCZBO][XCZBO](71) Experience: 4023000 + 76000  MonsterClass : 6
+[22:39:37] Level Up [XCZBO][XCZBO][72]
+[22:39:41] [XCZBO][XCZBO] Item Save Complete. Money [ 75345 ]
+[22:39:41] [QuestExp] AllQuestInfoSave [XCZBO][XCZBO] EP[2] QS[11] AskIndex[0x1] AskValue[0] AskState[0]
+[22:39:41] [QuestExp] AllQuestInfoSave [XCZBO][XCZBO] EP[3] QS[18]
+[22:39:41] [QuestExp] AllQuestInfoSave [XCZBO][XCZBO] EP[4] QS[9]
+[22:39:41] [QuestExp] AllQuestInfoSave [XCZBO][XCZBO] EP[18] QS[15]
+[22:39:41] [MuunInvenItem] [XCZBO][XCZBO] Muun Item Save Complete.
+[22:39:47] [Single] Experience : Map[Lorencia]-(115,212) [XCZBO][XCZBO](72) Experience: 4032800 + 138000  MonsterClass : 14
+[22:39:52] [Single] Experience : Map[Lorencia]-(115,211) [XCZBO][XCZBO](72) Experience: 4170800 + 32000  MonsterClass : 1
+[22:39:52] Level Up [XCZBO][XCZBO][73]
+[22:39:54] Item Create Request [Hound] [0][115][211] : [Leather Boots][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:39:54] Item Drop [0][115][211] : serial:100 [Leather Boots][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:39:57] [Single] Experience : Map[Lorencia]-(113,213) [XCZBO][XCZBO](73) Experience: 4199040 + 73000  MonsterClass : 6
+[22:39:59] [XCZBO][XCZBO][0]115/211 Get serial:100 [Leather Boots][5637][1][0][0][0] dur:[31]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:40:10] [Single] Experience : Map[Lorencia]-(129,228) [XCZBO][XCZBO](73) Experience: 4272040 + 73000  MonsterClass : 6
+[22:40:14] [fast][Tomi] Item Save Complete. Money [ 1992993000 ]
+[22:40:14] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[1] QS[91]
+[22:40:14] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[18] QS[9]
+[22:40:14] [MuunInvenItem] [fast][Tomi] Muun Item Save Complete.
+[22:40:16] [Single] Experience : Map[Lorencia]-(133,229) [XCZBO][XCZBO](73) Experience: 4345040 + 137000  MonsterClass : 14
+[22:40:16] Level Up [XCZBO][XCZBO][74]
+[22:40:18] Item Create Request [Skeleton] [0][134][229] : [Bow][3][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:40:18] Item Drop [0][134][229] : serial:101 [Bow][3][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:40:24] [XCZBO][XCZBO][0]132/228 Get serial:101 [Bow][2049][3][0][0][0] dur:[27]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:40:39] [Single] Experience : Map[Lorencia]-(130,225) [XCZBO][XCZBO](74) Experience: 4369780 + 73000  MonsterClass : 6
+[22:41:05] [Single] Experience : Map[Lorencia]-(153,218) [XCZBO][XCZBO](74) Experience: 4442780 + 135000  MonsterClass : 14
+[22:41:05] Level Up [XCZBO][XCZBO][75]
+[22:41:15] [Single] Experience : Map[Lorencia]-(143,224) [XCZBO][XCZBO](75) Experience: 4545080 + 72000  MonsterClass : 6
+[22:41:16] Item Create Request [LIch] [0][142][223] : [Hand Axe][3][0][1][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:41:16] Item Drop [0][142][223] : serial:102 [Hand Axe][3][0][1][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:41:17] [XCZBO][XCZBO][0]143/224 Get serial:102 [Hand Axe][513][3][0][1][0] dur:[23]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:41:25] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:33 Y:94
+[22:41:31] Using transformation ring : XCZBO : 3
+[22:41:44] [Single] Experience : Map[Lorencia]-(157,232) [XCZBO][XCZBO](75) Experience: 4617080 + 133000  MonsterClass : 14
+[22:41:44] Level Up [XCZBO][XCZBO][76]
+[22:41:51] [Single] Experience : Map[Lorencia]-(155,232) [XCZBO][XCZBO](76) Experience: 4725000 + 71000  MonsterClass : 6
+[22:41:52] Item Create Request [LIch] [0][156][233] : [Pendant of Fire][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:41:52] Item Drop [0][156][233] : serial:103 [Pendant of Fire][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:41:56] [XCZBO][XCZBO][0]155/232 Get serial:103 [Pendant of Fire][6669][0][0][0][0] dur:[50]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:42:01] Using transformation ring : XCZBO : 0
+[22:42:26] [Single] Experience : Map[Lorencia]-(141,196) [XCZBO][XCZBO](76) Experience: 4796000 + 132000  MonsterClass : 14
+[22:42:26] Level Up [XCZBO][XCZBO][77]
+[22:42:27] Item Create Request [Skeleton] [0][140][196] : [Blood Bone][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:42:27] Item Drop [0][140][196] : serial:104 [Blood Bone][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:42:32] [Single] Experience : Map[Lorencia]-(141,196) [XCZBO][XCZBO](77) Experience: 4909600 + 70000  MonsterClass : 6
+[22:42:34] Item Create Request [LIch] [0][142][197] : [Devil's Eye][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:42:34] Item Drop [0][142][197] : serial:105 [Devil's Eye][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:42:35] [XCZBO][XCZBO][0]140/197 Get serial:104 [Blood Bone][6673][1][0][0][0] dur:[128]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:42:36] [XCZBO][XCZBO][0]142/197 Get serial:105 [Devil's Eye][7185][1][0][0][0] dur:[1]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:42:43] [Single] Experience : Map[Lorencia]-(139,208) [XCZBO][XCZBO](77) Experience: 4979600 + 130000  MonsterClass : 14
+[22:42:43] Level Up [XCZBO][XCZBO][78]
+[22:42:44] Item Create Request [Skeleton] [0][140][208] : [Small Shield][5][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:42:44] Item Drop [0][140][208] : serial:106 [Small Shield][5][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:42:45] [XCZBO][XCZBO][0]139/208 Get serial:106 [Small Shield][3072][5][0][0][0] dur:[28]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:42:53] [Single] Experience : Map[Lorencia]-(132,205) [XCZBO][XCZBO](78) Experience: 5098940 + 128000  MonsterClass : 14
+[22:43:01] [Single] Experience : Map[Lorencia]-(129,202) [XCZBO][XCZBO](78) Experience: 5226940 + 128000  MonsterClass : 14
+[22:43:01] Level Up [XCZBO][XCZBO][79]
+[22:43:02] Item Create Request [Skeleton] [0][129][201] : [Crossbow][5][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:43:02] Item Drop [0][129][201] : serial:107 [Crossbow][5][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:43:04] [XCZBO][XCZBO][0]129/201 Get serial:107 [Crossbow][2056][5][1][1][0] dur:[28]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:43:08] [Single] Experience : Map[Lorencia]-(129,201) [XCZBO][XCZBO](79) Experience: 5293080 + 127000  MonsterClass : 14
+[22:43:09] Item Create Request [Skeleton] [0][128][201] : [Large Round Shield][0][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:43:09] Item Drop [0][128][201] : serial:108 [Large Round Shield][0][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:43:10] [XCZBO][XCZBO][0]129/201 Get serial:108 [Large Round Shield][3082][0][1][0][0] dur:[35]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:43:25] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:39 Y:93
+[22:43:27] [KUNDUN][Status Log] HP:5000000 RefillHP:5254 Map:36 X:38 Y:94
+[22:43:45] [Single] Experience : Map[Lorencia]-(132,183) [XCZBO][XCZBO](79) Experience: 5420080 + 127000  MonsterClass : 14
+[22:43:45] Level Up [XCZBO][XCZBO][80]
+[22:43:54] [Single] Experience : Map[Lorencia]-(131,184) [XCZBO][XCZBO](80) Experience: 5492080 + 125000  MonsterClass : 14
+[22:43:55] Item Create Request [Skeleton] [0][131][184] : [Vine Armor][3][0][0][2] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:43:55] Item Drop [0][131][184] : serial:109 [Vine Armor][3][0][0][2] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:43:56] [XCZBO][XCZBO][0]131/184 Get serial:109 [Vine Armor][4106][3][0][0][2] dur:[25]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:44:05] [Single] Experience : Map[Lorencia]-(122,180) [XCZBO][XCZBO](80) Experience: 5617080 + 125000  MonsterClass : 14
+[22:44:05] Level Up [XCZBO][XCZBO][81]
+[22:44:06] Item Create Request [Skeleton] [0][122][181] : [Golden Crossbow][2][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:44:06] Item Drop [0][122][181] : serial:110 [Golden Crossbow][2][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:44:07] [Single] Experience : Map[Lorencia]-(123,180) [XCZBO][XCZBO](81) Experience: 5696000 + 66000  MonsterClass : 6
+[22:44:09] [XCZBO][XCZBO][0]123/180 Get serial:110 [Golden Crossbow][2057][2][1][1][0] dur:[28]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:44:20] [Single] Experience : Map[Lorencia]-(131,173) [XCZBO][XCZBO](81) Experience: 5762000 + 123000  MonsterClass : 14
+[22:44:29] [Single] Experience : Map[Lorencia]-(133,181) [XCZBO][XCZBO](81) Experience: 5885000 + 123000  MonsterClass : 14
+[22:44:29] Level Up [XCZBO][XCZBO][82]
+[22:44:37] [Single] Experience : Map[Lorencia]-(125,190) [XCZBO][XCZBO](82) Experience: 5904900 + 66000  MonsterClass : 6
+[22:44:45] [Single] Experience : Map[Lorencia]-(132,190) [XCZBO][XCZBO](82) Experience: 5970900 + 66000  MonsterClass : 6
+[22:44:46] Item Create Request [LIch] [0][133][191] : [Short Bow][4][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:44:46] Item Drop [0][133][191] : serial:111 [Short Bow][4][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:44:47] [XCZBO][XCZBO][0]132/190 Get serial:111 [Short Bow][2048][4][0][0][0] dur:[24]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:45:11] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:710 Bow:3/0/0/0/101 Dur:27 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:45:13] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:270 Short Sword:3/0/0/0/95 Dur:25 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:45:14] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:1600 Large Round Shield:0/1/0/0/108 Dur:35 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:45:15] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:2200 Vine Armor:3/0/0/2/109 Dur:25 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:45:17] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:2500 Golden Crossbow:2/1/1/0/110 Dur:28 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:45:18] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:1000 Small Shield:5/0/0/0/106 Dur:28 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:45:22] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:160 Leather Boots:1/0/0/0/100 Dur:31 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:45:23] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:470 Short Bow:4/0/0/0/111 Dur:24 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:45:26] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:4400 Crossbow:5/1/1/0/107 Dur:28 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:45:27] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:34 Y:100
+[22:46:23] [XCZBO][XCZBO] Shop buy [MAP:0][X:116][Y:141] [24800][0][24800] [Tomahawk] LEV:3, DUR:31, OP:[1][1][1]
+[22:46:24] [XCZBO][XCZBO] Shop buy [MAP:0][X:116][Y:141] [24800][0][24800] [Tomahawk] LEV:3, DUR:31, OP:[1][1][1]
+[22:46:26] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:400 Small Axe:4/0/1/0/96 Dur:22 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:46:28] [XCZBO][XCZBO] Shop [MAP:0][X:116][Y:141] Item Sell Money:400 Hand Axe:3/0/1/0/102 Dur:23 Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:46:29] [gObjWeaponMagicAdd] (XCZBO) 8 - Skill:19, Level:3
+[22:46:29] Using transformation ring : XCZBO : 3
+[22:46:31] [gObjWeaponMagicAdd] (XCZBO) 9 - Skill:19, Level:3
+[22:46:31] Using transformation ring : XCZBO : 3
+[22:47:04] count:3
+[22:47:13] [XCZBO][XCZBO] Item Save Complete. Money [ 40145 ]
+[22:47:13] [XCZBO][XCZBO] Store Save Complete. wMoney[0]
+[22:47:13] [XCZBO][XCZBO] Warehouse save OK (WindowClose:1)
+[22:47:27] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:33 Y:100
+[22:47:31] Trade Transaction (XCZBO)
+[22:47:31] [XCZBO][XCZBO] Open Chaos Box
+[22:47:31] [XCZBO][XCZBO] Item Save Complete. Money [ 40145 ]
+[22:47:31] [XCZBO][XCZBO] Store Save Complete. wMoney[0]
+[22:47:32] Trade Commit (XCZBO)
+[22:48:08] Message copy 38
+[22:48:56] [Single] Experience : Map[Lorencia]-(119,202) [XCZBO][XCZBO](82) Experience: 6036900 + 122000  MonsterClass : 14
+[22:48:56] Level Up [XCZBO][XCZBO][83]
+[22:49:01] [Single] Experience : Map[Lorencia]-(110,203) [XCZBO][XCZBO](83) Experience: 6118840 + 121000  MonsterClass : 14
+[22:49:03] [Single] Experience : Map[Lorencia]-(108,204) [XCZBO][XCZBO](83) Experience: 6239840 + 121000  MonsterClass : 14
+[22:49:03] Level Up [XCZBO][XCZBO][84]
+[22:49:10] [Single] Experience : Map[Lorencia]-(102,202) [XCZBO][XCZBO](84) Experience: 6337880 + 118000  MonsterClass : 14
+[22:49:11] Item Create Request [Skeleton] [0][102][202] : [Angelic Staff][0][0][1][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:49:11] Item Drop [0][102][202] : serial:112 [Angelic Staff][0][0][1][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:49:12] [XCZBO][XCZBO][0]103/202 Get serial:112 [Angelic Staff][2561][0][0][1][0] dur:[38]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:49:23] [Single] Experience : Map[Lorencia]-(85,199) [XCZBO][XCZBO](84) Experience: 6455880 + 65000  MonsterClass : 6
+[22:49:24] Item Create Request [LIch] [0][86][200] : [Leather Helm][2][0][1][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:49:24] Item Drop [0][86][200] : serial:113 [Leather Helm][2][0][1][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:49:26] [XCZBO][XCZBO][0]86/200 Get serial:113 [Leather Helm][3589][2][0][1][0] dur:[32]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:49:27] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:34 Y:94
+[22:49:28] [Single] Experience : Map[Lorencia]-(83,204) [XCZBO][XCZBO](84) Experience: 6520880 + 65000  MonsterClass : 6
+[22:49:28] Level Up [XCZBO][XCZBO][85]
+[22:49:29] Item Create Request [LIch] [0][80][203] : [Transformation Ring][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:49:29] Item Drop [0][80][203] : serial:114 [Transformation Ring][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:49:30] [Idk288][Conqueror] Item Save Complete. Money [ 0 ]
+[22:49:30] [QuestExp] AllQuestInfoSave [Idk288][Conqueror] EP[1] QS[0]
+[22:49:30] [MuunInvenItem] [Idk288][Conqueror] Muun Item Save Complete.
+[22:49:30] [XCZBO][XCZBO][0]80/204 Get serial:114 [Transformation Ring][6666][0][0][0][0] dur:[108]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:49:39] Using transformation ring : XCZBO : 2
+[22:49:42] [XCZBO][XCZBO] Item Save Complete. Money [ 40205 ]
+[22:49:42] [QuestExp] AllQuestInfoSave [XCZBO][XCZBO] EP[2] QS[11] AskIndex[0x1] AskValue[0] AskState[0]
+[22:49:42] [QuestExp] AllQuestInfoSave [XCZBO][XCZBO] EP[3] QS[18]
+[22:49:42] [QuestExp] AllQuestInfoSave [XCZBO][XCZBO] EP[4] QS[9]
+[22:49:42] [QuestExp] AllQuestInfoSave [XCZBO][XCZBO] EP[18] QS[15]
+[22:49:42] [MuunInvenItem] [XCZBO][XCZBO] Muun Item Save Complete.
+[22:49:54] [Single] Experience : Map[Lorencia]-(64,189) [XCZBO][XCZBO](85) Experience: 6562080 + 47000  MonsterClass : 4
+[22:49:55] Item Create Request [Elite Bull] [0][64][189] : [Golden Crossbow][0][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:49:55] Item Drop [0][64][189] : serial:115 [Golden Crossbow][0][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:49:56] [XCZBO][XCZBO][0]64/188 Get serial:115 [Golden Crossbow][2057][0][1][0][0] dur:[26]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:50:01] [Single] Experience : Map[Lorencia]-(58,188) [XCZBO][XCZBO](85) Experience: 6609080 + 47000  MonsterClass : 4
+[22:50:02] Item Create Request [Elite Bull] [0][59][187] : [Small Shield][3][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:50:02] Item Drop [0][59][187] : serial:116 [Small Shield][3][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:50:03] [XCZBO][XCZBO][0]58/188 Get serial:116 [Small Shield][3072][3][0][0][0] dur:[25]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:50:04] [Kanturu][Battle Standby] State(1) -> NOTIFY
+[22:50:06] [Illusion Temple] (1) Sync Open Time. [10]min remain
+[22:50:06] [Illusion Temple] (2) Sync Open Time. [10]min remain
+[22:50:06] [Illusion Temple] (3) Sync Open Time. [10]min remain
+[22:50:06] [Illusion Temple] (4) Sync Open Time. [10]min remain
+[22:50:06] [Illusion Temple] (5) Sync Open Time. [10]min remain
+[22:50:06] [Illusion Temple] (6) Sync Open Time. [10]min remain
+[22:50:07] [Single] Experience : Map[Lorencia]-(50,183) [XCZBO][XCZBO](85) Experience: 6656080 + 27000  MonsterClass : 1
+[22:50:10] [Single] Experience : Map[Lorencia]-(50,183) [XCZBO][XCZBO](85) Experience: 6683080 + 27000  MonsterClass : 1
+[22:50:15] [fast][Tomi] Item Save Complete. Money [ 1992993000 ]
+[22:50:15] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[1] QS[91]
+[22:50:15] [QuestExp] AllQuestInfoSave [fast][Tomi] EP[18] QS[9]
+[22:50:15] [MuunInvenItem] [fast][Tomi] Muun Item Save Complete.
+[22:50:16] [Single] Experience : Map[Lorencia]-(40,177) [XCZBO][XCZBO](85) Experience: 6710080 + 27000  MonsterClass : 1
+[22:50:25] [Single] Experience : Map[Lorencia]-(33,167) [XCZBO][XCZBO](85) Experience: 6737080 + 47000  MonsterClass : 4
+[22:50:29] [Single] Experience : Map[Lorencia]-(30,164) [XCZBO][XCZBO](85) Experience: 6784080 + 47000  MonsterClass : 4
+[22:50:29] Level Up [XCZBO][XCZBO][86]
+[22:50:30] Item Create Request [Elite Bull] [0][32][161] : [Pad Pants][1][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:50:30] Item Drop [0][32][161] : serial:117 [Pad Pants][1][1][1][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:50:30] [Single] Experience : Map[Lorencia]-(32,163) [XCZBO][XCZBO](86) Experience: 6791500 + 27000  MonsterClass : 1
+[22:50:32] [XCZBO][XCZBO][0]31/162 Get serial:117 [Pad Pants][4610][1][0][1][0] dur:[29]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:50:39] [Single] Experience : Map[Lorencia]-(35,157) [XCZBO][XCZBO](86) Experience: 6818500 + 27000  MonsterClass : 1
+[22:50:42] [Single] Experience : Map[Lorencia]-(38,157) [XCZBO][XCZBO](86) Experience: 6845500 + 46000  MonsterClass : 4
+[22:50:51] [Single] Experience : Map[Lorencia]-(36,142) [XCZBO][XCZBO](86) Experience: 6891500 + 27000  MonsterClass : 1
+[22:51:03] [Kanturu][Battle Standby] State(2) -> END
+[22:51:03] [Kanturu][Battle Standby] State(3) -> NONE
+[22:51:03] [Kanturu][MapAttrChange] Map(0) State(1) DetailState(0)
+[22:51:03] [Kanturu] State(1) -> BATTLE_OF_MAYA
+[22:51:03] [Kanturu][Battle of Maya] State(0) -> STANBY1
+[22:51:22] [Single] Experience : Map[Lorencia]-(61,130) [XCZBO][XCZBO](86) Experience: 6918500 + 27000  MonsterClass : 1
+[22:51:23] Item Create Request [Hound] [0][60][128] : [Vine Helm][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:51:23] Item Drop [0][60][128] : serial:118 [Vine Helm][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:51:24] [XCZBO][XCZBO][0]59/128 Get serial:118 [Vine Helm][3594][1][0][0][0] dur:[23]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:51:27] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:42 Y:89
+[22:51:30] [Single] Experience : Map[Lorencia]-(48,118) [XCZBO][XCZBO](86) Experience: 6945500 + 46000  MonsterClass : 4
+[22:51:38] [Single] Experience : Map[Lorencia]-(32,118) [XCZBO][XCZBO](86) Experience: 6991500 + 27000  MonsterClass : 1
+[22:51:40] Item Create Request [Hound] [0][28][118] : [Pad Pants][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:51:40] Item Drop [0][28][118] : serial:119 [Pad Pants][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:51:42] [XCZBO][XCZBO][0]27/117 Get serial:119 [Pad Pants][4610][0][0][0][0] dur:[28]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:52:03] [Single] Experience : Map[Lorencia]-(33,109) [XCZBO][XCZBO](86) Experience: 7018500 + 46000  MonsterClass : 4
+[22:52:03] Level Up [XCZBO][XCZBO][87]
+[22:52:16] [Single] Experience : Map[Lorencia]-(39,83) [XCZBO][XCZBO](87) Experience: 7026200 + 46000  MonsterClass : 4
+[22:52:17] Item Create Request [Elite Bull] [0][41][84] : [Leather Gloves][2][0][1][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:52:17] Item Drop [0][41][84] : serial:120 [Leather Gloves][2][0][1][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:52:19] [XCZBO][XCZBO][0]40/83 Get serial:120 [Leather Gloves][5125][2][0][1][0] dur:[32]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:52:27] [Single] Experience : Map[Lorencia]-(39,73) [XCZBO][XCZBO](87) Experience: 7072200 + 46000  MonsterClass : 4
+[22:52:28] [Single] Experience : Map[Lorencia]-(39,71) [XCZBO][XCZBO](87) Experience: 7118200 + 46000  MonsterClass : 4
+[22:52:38] [Single] Experience : Map[Lorencia]-(31,75) [XCZBO][XCZBO](87) Experience: 7164200 + 91000  MonsterClass : 7
+[22:52:39] Item Drop [0][32][76] : serial:121 [Pink Chocolate Box][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:52:40] [XCZBO][XCZBO][0]32/76 Get serial:121 [Pink Chocolate Box][7200][1][0][0][0] dur:[2]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:52:43] [Item_Light_Purple_Candy_Box] Drop Zen [XCZBO][XCZBO] [30000 Zen]
+[22:52:43] [XCZBO][XCZBO][Used Item Bag] : (0)(X:32/Y:76)
+[22:52:45] [Single] Experience : Map[Lorencia]-(32,76) [XCZBO][XCZBO](87) Experience: 7255200 + 27000  MonsterClass : 1
+[22:52:45] Level Up [XCZBO][XCZBO][88]
+[22:52:47] Item Create Request [Hound] [0][30][74] : [Sealed Golden Box][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0] MainAttr:[0] Expire:[0]
+[22:52:47] Item Drop [0][30][74] : serial:122 [Sealed Golden Box][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+[22:52:47] [Single] Experience : Map[Lorencia]-(29,72) [XCZBO][XCZBO](88) Experience: 7266240 + 91000  MonsterClass : 7
+[22:52:48] [XCZBO][XCZBO][0]30/73 Get serial:122 [Sealed Golden Box][7289][0][0][0][0] dur:[1]Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:53:02] [Kanturu][Battle of Maya] State(1) -> NOTIFY1
+[22:53:02] [Kanturu][Battle of Maya] Fail!! All Battle User Die - DetailState:2
+[22:53:02] [Kanturu][Battle of Maya] State(2) -> END
+[22:53:02] [Kanturu][Battle of Maya] Success Value[0]
+[22:53:04] [Kanturu][Battle of Maya] State(17) -> ENDCYCLE
+[22:53:05] [Kanturu][Battle of Maya] State(18) -> NONE
+[22:53:05] [Kanturu][MapAttrChange] Map(0) State(2) DetailState(0)
+[22:53:05] [Kanturu] State(2) -> END
+[22:53:05] [Kanturu][MapAttrChange] Map(0) State(5) DetailState(0)
+[22:53:05] [Kanturu] State(5) -> NONE
+[22:53:05] [Kanturu][MapAttrChange] Map(0) State(0) DetailState(0)
+[22:53:05] [Kanturu] State(0) -> STANDBY
+[22:53:05] [Kanturu][Battle Standby]] State(0) -> START
+[22:53:05] [Kanturu][Time Attack] Date:20210120, Counter:6
+[22:53:27] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:39 Y:96
+[22:53:29] [KUNDUN][Status Log] HP:5000000 RefillHP:11808 Map:36 X:39 Y:98
+[22:54:04] Game server closed because Authentication server is closed.
+[22:54:04] Gamer server closed because Data server is closed.
+[22:54:04] Gamer server closed because Data server is closed.
+[22:54:04] XCZBO Character save fail
+[22:54:04] (12019)(XCZBO)(XCZBO) Character closed
+[22:54:04] (12019)Logout Request : XCZBO [186.19.118.155]
+[22:54:04] (12019)Disconnected :  [186.19.118.155]
+[22:54:04] Conqueror Character save fail
+[22:54:04] (12018)(Idk288)(Conqueror) Character closed
+[22:54:04] (12018)Logout Request : Idk288 [181.13.118.12]
+[22:54:04] (12018)Disconnected :  [181.13.118.12]
+[22:54:04] Tomi Character save fail
+[22:54:04] (12024)(fast)(Tomi) Character closed
+[22:54:04] (12024)Logout Request : fast [186.182.173.58]
+[22:54:04] (12024)Disconnected :  [186.182.173.58]
+[22:54:04] Error-L1 : Friend Server Down (State Send Ok)
+[22:54:04] Error-L1 : Friend Server Down (State Send Ok)
+[22:54:07] Connection Accept : [12025][186.182.173.58]
+[22:54:07] Connection Accept : [12026][181.13.118.12]
+[22:54:07] Connection Accept : [12027][186.19.118.155]
+[22:54:08] error-L3 : 10057 (wsJoinServerCli.cpp 143)
+[22:54:08] Attempt to Login : (12025)fast (MachineID:1051-4E4B-5E3C-9DA0-9357-115B-2D40-B4F9)
+[22:54:08] Attempt to Login : (12026)Idk288 (MachineID:5C76-4E4B-155F-2474-375F-1091-C0DA-993C)
+[22:54:08] Attempt to Login : (12027)XCZBO (MachineID:5C58-F257-9696-1845-0130-DBFB-F998-95D4)
+[22:54:10] error-L2: User who is not authenticated requested character list?? DSProtocol.cpp 1751
+[22:54:10] WSARecv() failed with error 10038
+[22:54:10] (12025)Disconnected : fast [186.182.173.58]
+[22:54:10] DataServer connect fail IP [ 127.0.0.1 ] PORT [ 56960 ]
+[22:54:10] error-L2: User who is not authenticated requested character list?? DSProtocol.cpp 1751
+[22:54:10] WSARecv() failed with error 10038
+[22:54:10] (12026)Disconnected : Idk288 [181.13.118.12]
+[22:54:10] error-L2: User who is not authenticated requested character list?? DSProtocol.cpp 1751
+[22:54:10] WSARecv() failed with error 10038
+[22:54:10] (12027)Disconnected : XCZBO [186.19.118.155]
+[22:54:12] ExDataServer connect fail IP [ 127.0.0.1 ] PORT [ 56906 ]
+[22:54:15] Whole connection closed

@@ -130,3 +130,328 @@
 [22:10:57] [Idk288][Conqueror] SI[1,Small Shield,0,0,0,0]serial:[0] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
 [22:13:23] [Idk288][Conqueror] SI[0,Small Axe,0,0,0,0]serial:[0] dur:[18] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
 [22:13:23] [Idk288][Conqueror] SI[1,Small Shield,0,0,0,0]serial:[0] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:16:58] [fast][Tomi] SI[0,Small Axe,0,0,0,0]serial:[0] dur:[16] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:16:58] [fast][Tomi] SI[1,Small Shield,0,0,0,0]serial:[0] dur:[21] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:16:58] [fast][Tomi] SI[12,Apple,0,0,0,0]serial:[6] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:16:58] [fast][Tomi] SI[13,Bone Pants,0,0,1,0]serial:[26] dur:[30] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:16:58] [fast][Tomi] SI[15,Transformation Ring,0,0,0,0]serial:[32] dur:[159] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:16:58] [fast][Tomi] SI[16,Apple,0,0,0,0]serial:[10] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:16:58] [fast][Tomi] SI[17,Pad Boots,0,0,1,0]serial:[31] dur:[28] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:16:58] [fast][Tomi] SI[19,Small Axe,1,0,0,0]serial:[35] dur:[19] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:16:58] [fast][Tomi] SI[23,Vine Gloves,0,0,0,0]serial:[33] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:16:58] [fast][Tomi] SI[52,Transformation Ring,0,0,0,0]serial:[20] dur:[127] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:16:58] [fast][Tomi] CharInfoSave : Class=16 Level=37 LVPoint=45 Exp=583200 Str=140 Dex=43 Vit=25 Energy=10 Leadership:0 Map=0 Pk=2
+[22:19:25] [Idk288][Conqueror] SI[0,Small Axe,0,0,0,0]serial:[0] dur:[18] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:19:25] [Idk288][Conqueror] SI[1,Small Shield,0,0,0,0]serial:[0] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:19:25] [Idk288][Conqueror] CharInfoSave : Class=16 Level=1 LVPoint=0 Exp=0 Str=28 Dex=20 Vit=25 Energy=10 Leadership:0 Map=0 Pk=2
+[22:19:37] [XCZBO][XCZBO] SI[0,Small Axe,0,0,1,0]serial:[49] dur:[18] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:19:37] [XCZBO][XCZBO] SI[1,Small Axe,1,0,0,0]serial:[41] dur:[19] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:19:37] [XCZBO][XCZBO] SI[12,Armor of Guardsman,0,0,0,0]serial:[67] dur:[0] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:19:37] [XCZBO][XCZBO] SI[16,Apple,0,0,0,0]serial:[39] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:19:37] [XCZBO][XCZBO] SI[17,Apple,0,0,0,0]serial:[40] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:19:37] [XCZBO][XCZBO] SI[27,Rena,3,0,0,0]serial:[46] dur:[2] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:19:37] [XCZBO][XCZBO] CharInfoSave : Class=96 Level=26 LVPoint=0 Exp=212500 Str=150 Dex=30 Vit=79 Energy=20 Leadership:0 Map=0 Pk=2
+[22:20:00] [XCZBO][XCZBO] SI[0,Small Axe,0,0,1,0]serial:[49] dur:[18] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:20:00] [XCZBO][XCZBO] SI[1,Small Axe,1,0,0,0]serial:[41] dur:[19] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:20:00] [XCZBO][XCZBO] SI[16,Apple,0,0,0,0]serial:[39] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:20:00] [XCZBO][XCZBO] SI[17,Apple,0,0,0,0]serial:[40] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:20:00] [XCZBO][XCZBO] SW [0,Armor of Guardsman,0,0,0,0]serial:[67] dur:[0] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:20:00] [XCZBO][XCZBO] SW [7,Rena,3,0,0,0]serial:[46] dur:[2] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:20:18] [forgoten][dios] Skill Save Complete. 0 44
+[22:20:18] [forgoten][dios] Skill Save Complete. 1 67
+[22:20:18] [forgoten][dios] Skill Save Complete. 2 68
+[22:20:18] [forgoten][dios] Skill Save Complete. 3 69
+[22:20:18] [forgoten][dios] Skill Save Complete. 4 70
+[22:20:18] [forgoten][dios] Skill Save Complete. 5 71
+[22:20:18] [forgoten][dios] Skill Save Complete. 6 72
+[22:20:18] [forgoten][dios] SI[0,Small Axe,0,0,0,0]serial:[0] dur:[15] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:20:18] [forgoten][dios] SI[1,Small Shield,0,0,0,0]serial:[0] dur:[21] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:20:18] [forgoten][dios] SI[12,Leather Gloves,0,0,1,0]serial:[63] dur:[30] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:20:18] [forgoten][dios] CharInfoSave : Class=16 Level=39 LVPoint=10 Exp=678680 Str=128 Dex=100 Vit=25 Energy=10 Leadership:0 Map=0 Pk=2
+[22:20:53] [XCZBO][XCZBO] SI[0,Small Axe,0,0,1,0]serial:[49] dur:[18] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:20:53] [XCZBO][XCZBO] SI[1,Small Axe,1,0,0,0]serial:[41] dur:[19] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:20:53] [XCZBO][XCZBO] SI[16,Apple,0,0,0,0]serial:[39] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:20:53] [XCZBO][XCZBO] SI[17,Apple,0,0,0,0]serial:[40] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:20:53] [XCZBO][XCZBO] SW [0,Armor of Guardsman,0,0,0,0]serial:[67] dur:[0] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:20:53] [XCZBO][XCZBO] SW [7,Rena,3,0,0,0]serial:[46] dur:[2] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:23:46] [fast][Tomi] Skill Save Complete. 0 44
+[22:23:46] [fast][Tomi] Skill Save Complete. 1 67
+[22:23:46] [fast][Tomi] Skill Save Complete. 2 68
+[22:23:46] [fast][Tomi] Skill Save Complete. 3 69
+[22:23:46] [fast][Tomi] Skill Save Complete. 4 70
+[22:23:46] [fast][Tomi] Skill Save Complete. 5 71
+[22:23:46] [fast][Tomi] Skill Save Complete. 6 72
+[22:23:46] [fast][Tomi] SI[0,Small Axe,0,0,0,0]serial:[0] dur:[16] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:23:46] [fast][Tomi] SI[1,Small Shield,0,0,0,0]serial:[0] dur:[21] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:23:46] [fast][Tomi] SI[12,Apple,0,0,0,0]serial:[6] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:23:46] [fast][Tomi] SI[13,Bone Pants,0,0,1,0]serial:[26] dur:[30] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:23:46] [fast][Tomi] SI[15,Transformation Ring,0,0,0,0]serial:[32] dur:[159] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:23:46] [fast][Tomi] SI[16,Apple,0,0,0,0]serial:[10] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:23:46] [fast][Tomi] SI[17,Pad Boots,0,0,1,0]serial:[31] dur:[28] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:23:46] [fast][Tomi] SI[19,Small Axe,1,0,0,0]serial:[35] dur:[19] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:23:46] [fast][Tomi] SI[23,Vine Gloves,0,0,0,0]serial:[33] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:23:46] [fast][Tomi] SI[52,Transformation Ring,0,0,0,0]serial:[20] dur:[127] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:23:46] [fast][Tomi] CharInfoSave : Class=16 Level=37 LVPoint=45 Exp=583200 Str=140 Dex=43 Vit=25 Energy=10 Leadership:0 Map=0 Pk=2
+[22:24:03] [fast][Tomi] Skill Save Complete. 0 44
+[22:24:03] [fast][Tomi] Skill Save Complete. 1 67
+[22:24:03] [fast][Tomi] Skill Save Complete. 2 68
+[22:24:03] [fast][Tomi] Skill Save Complete. 3 69
+[22:24:03] [fast][Tomi] Skill Save Complete. 4 70
+[22:24:03] [fast][Tomi] Skill Save Complete. 5 71
+[22:24:03] [fast][Tomi] Skill Save Complete. 6 72
+[22:24:03] [fast][Tomi] SI[0,Small Axe,0,0,0,0]serial:[0] dur:[16] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:24:03] [fast][Tomi] SI[1,Small Shield,0,0,0,0]serial:[0] dur:[21] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:24:03] [fast][Tomi] SI[12,Apple,0,0,0,0]serial:[6] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:24:03] [fast][Tomi] SI[13,Bone Pants,0,0,1,0]serial:[26] dur:[30] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:24:03] [fast][Tomi] SI[15,Transformation Ring,0,0,0,0]serial:[32] dur:[159] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:24:03] [fast][Tomi] SI[16,Apple,0,0,0,0]serial:[10] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:24:03] [fast][Tomi] SI[17,Pad Boots,0,0,1,0]serial:[31] dur:[28] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:24:03] [fast][Tomi] SI[19,Small Axe,1,0,0,0]serial:[35] dur:[19] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:24:03] [fast][Tomi] SI[23,Vine Gloves,0,0,0,0]serial:[33] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:24:03] [fast][Tomi] SI[52,Transformation Ring,0,0,0,0]serial:[20] dur:[127] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:24:03] [fast][Tomi] CharInfoSave : Class=16 Level=37 LVPoint=45 Exp=583200 Str=140 Dex=43 Vit=25 Energy=10 Leadership:0 Map=0 Pk=2
+[22:24:54] [fast][Tomi] Skill Save Complete. 0 44
+[22:24:54] [fast][Tomi] Skill Save Complete. 1 67
+[22:24:54] [fast][Tomi] Skill Save Complete. 2 68
+[22:24:54] [fast][Tomi] Skill Save Complete. 3 69
+[22:24:54] [fast][Tomi] Skill Save Complete. 4 70
+[22:24:54] [fast][Tomi] Skill Save Complete. 5 71
+[22:24:54] [fast][Tomi] Skill Save Complete. 6 72
+[22:24:54] [fast][Tomi] SI[0,Small Axe,0,0,0,0]serial:[0] dur:[16] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:24:54] [fast][Tomi] SI[1,Small Shield,0,0,0,0]serial:[0] dur:[21] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:24:54] [fast][Tomi] SI[12,Apple,0,0,0,0]serial:[6] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:24:54] [fast][Tomi] SI[13,Bone Pants,0,0,1,0]serial:[26] dur:[30] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:24:54] [fast][Tomi] SI[15,Transformation Ring,0,0,0,0]serial:[32] dur:[159] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:24:54] [fast][Tomi] SI[16,Apple,0,0,0,0]serial:[10] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:24:54] [fast][Tomi] SI[17,Pad Boots,0,0,1,0]serial:[31] dur:[28] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:24:54] [fast][Tomi] SI[19,Small Axe,1,0,0,0]serial:[35] dur:[19] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:24:54] [fast][Tomi] SI[23,Vine Gloves,0,0,0,0]serial:[33] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:24:54] [fast][Tomi] SI[52,Transformation Ring,0,0,0,0]serial:[20] dur:[127] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:24:54] [fast][Tomi] CharInfoSave : Class=16 Level=37 LVPoint=45 Exp=583200 Str=140 Dex=43 Vit=25 Energy=10 Leadership:0 Map=0 Pk=2
+[22:25:19] [fast][Tomi] SI[0,Small Axe,0,0,0,0]serial:[0] dur:[16] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:25:19] [fast][Tomi] SI[1,Small Shield,0,0,0,0]serial:[0] dur:[21] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:25:19] [fast][Tomi] SI[12,Apple,0,0,0,0]serial:[6] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:25:19] [fast][Tomi] SI[13,Bone Pants,0,0,1,0]serial:[26] dur:[30] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:25:19] [fast][Tomi] SI[15,Transformation Ring,0,0,0,0]serial:[32] dur:[159] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:25:19] [fast][Tomi] SI[16,Apple,0,0,0,0]serial:[10] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:25:19] [fast][Tomi] SI[17,Pad Boots,0,0,1,0]serial:[31] dur:[28] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:25:19] [fast][Tomi] SI[19,Small Axe,1,0,0,0]serial:[35] dur:[19] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:25:19] [fast][Tomi] SI[23,Vine Gloves,0,0,0,0]serial:[33] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:25:19] [fast][Tomi] SI[52,Transformation Ring,0,0,0,0]serial:[20] dur:[127] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:26:09] [fast][Tomi] Skill Save Complete. 0 44
+[22:26:09] [fast][Tomi] Skill Save Complete. 1 67
+[22:26:09] [fast][Tomi] Skill Save Complete. 2 68
+[22:26:09] [fast][Tomi] Skill Save Complete. 3 69
+[22:26:09] [fast][Tomi] Skill Save Complete. 4 70
+[22:26:09] [fast][Tomi] Skill Save Complete. 5 71
+[22:26:09] [fast][Tomi] Skill Save Complete. 6 72
+[22:26:09] [fast][Tomi] SI[0,Small Axe,0,0,0,0]serial:[0] dur:[16] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:26:09] [fast][Tomi] SI[1,Small Shield,0,0,0,0]serial:[0] dur:[21] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:26:09] [fast][Tomi] SI[12,Apple,0,0,0,0]serial:[6] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:26:09] [fast][Tomi] SI[13,Bone Pants,0,0,1,0]serial:[26] dur:[30] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:26:09] [fast][Tomi] SI[15,Transformation Ring,0,0,0,0]serial:[32] dur:[159] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:26:09] [fast][Tomi] SI[16,Apple,0,0,0,0]serial:[10] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:26:09] [fast][Tomi] SI[17,Pad Boots,0,0,1,0]serial:[31] dur:[28] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:26:09] [fast][Tomi] SI[19,Small Axe,1,0,0,0]serial:[35] dur:[19] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:26:09] [fast][Tomi] SI[23,Vine Gloves,0,0,0,0]serial:[33] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:26:09] [fast][Tomi] SI[52,Transformation Ring,0,0,0,0]serial:[20] dur:[127] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:26:09] [fast][Tomi] CharInfoSave : Class=16 Level=38 LVPoint=50 Exp=629740 Str=140 Dex=43 Vit=25 Energy=10 Leadership:0 Map=0 Pk=2
+[22:27:55] [fast][Tomi] Skill Save Complete. 0 44
+[22:27:55] [fast][Tomi] Skill Save Complete. 1 67
+[22:27:55] [fast][Tomi] Skill Save Complete. 2 68
+[22:27:55] [fast][Tomi] Skill Save Complete. 3 69
+[22:27:55] [fast][Tomi] Skill Save Complete. 4 70
+[22:27:55] [fast][Tomi] Skill Save Complete. 5 71
+[22:27:55] [fast][Tomi] Skill Save Complete. 6 72
+[22:27:55] [fast][Tomi] SI[0,Small Axe,0,0,0,0]serial:[0] dur:[16] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:27:55] [fast][Tomi] SI[1,Small Shield,0,0,0,0]serial:[0] dur:[21] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:27:55] [fast][Tomi] SI[12,Apple,0,0,0,0]serial:[6] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:27:55] [fast][Tomi] SI[13,Bone Pants,0,0,1,0]serial:[26] dur:[30] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:27:55] [fast][Tomi] SI[15,Transformation Ring,0,0,0,0]serial:[32] dur:[159] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:27:55] [fast][Tomi] SI[16,Apple,0,0,0,0]serial:[10] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:27:55] [fast][Tomi] SI[17,Pad Boots,0,0,1,0]serial:[31] dur:[28] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:27:55] [fast][Tomi] SI[19,Small Axe,1,0,0,0]serial:[35] dur:[19] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:27:55] [fast][Tomi] SI[23,Vine Gloves,0,0,0,0]serial:[33] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:27:55] [fast][Tomi] SI[52,Transformation Ring,0,0,0,0]serial:[20] dur:[127] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:27:55] [fast][Tomi] CharInfoSave : Class=17 Level=221 LVPoint=225 Exp=110836000 Str=140 Dex=43 Vit=25 Energy=10 Leadership:0 Map=2 Pk=2
+[22:29:28] [Idk288][Conqueror] SI[0,Small Axe,0,0,0,0]serial:[0] dur:[18] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:29:28] [Idk288][Conqueror] SI[1,Small Shield,0,0,0,0]serial:[0] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:29:28] [Idk288][Conqueror] CharInfoSave : Class=16 Level=1 LVPoint=0 Exp=0 Str=28 Dex=20 Vit=25 Energy=10 Leadership:0 Map=0 Pk=2
+[22:29:40] [XCZBO][XCZBO] SI[0,Mace,1,0,0,0]serial:[89] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:29:40] [XCZBO][XCZBO] SI[1,Small Axe,1,0,0,0]serial:[41] dur:[19] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:29:40] [XCZBO][XCZBO] SI[2,Leather Helm,1,0,0,0]serial:[82] dur:[31] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:29:40] [XCZBO][XCZBO] SI[6,Leather Boots,3,0,1,0]serial:[94] dur:[33] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:29:40] [XCZBO][XCZBO] SI[12,Bone Gloves,1,0,0,0]serial:[76] dur:[31] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:29:40] [XCZBO][XCZBO] SI[14,Golden Crossbow,0,1,0,0]serial:[77] dur:[26] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:29:40] [XCZBO][XCZBO] SI[16,Sword of Assassin,0,1,1,0]serial:[83] dur:[24] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:29:40] [XCZBO][XCZBO] SI[17,Golden Crossbow,0,1,1,0]serial:[79] dur:[26] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:29:40] [XCZBO][XCZBO] SI[19,Transformation Ring,0,0,0,0]serial:[80] dur:[197] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:29:40] [XCZBO][XCZBO] SI[27,Orb of Greater Fortitude,0,0,0,0]serial:[86] dur:[0] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:29:40] [XCZBO][XCZBO] SI[28,Elven Bow,4,0,0,0]serial:[81] dur:[32] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:29:40] [XCZBO][XCZBO] SI[30,Jewel of Life,0,0,0,0]serial:[92] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:29:40] [XCZBO][XCZBO] SI[33,Pad Armor,0,0,0,0]serial:[88] dur:[28] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:29:40] [XCZBO][XCZBO] SI[38,Small Axe,0,0,1,0]serial:[49] dur:[11] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:29:40] [XCZBO][XCZBO] SI[48,Battle Axe,4,0,0,0]serial:[90] dur:[40] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:29:40] [XCZBO][XCZBO] SI[50,Golden Crossbow,2,1,0,0]serial:[91] dur:[28] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:29:40] [XCZBO][XCZBO] CharInfoSave : Class=96 Level=57 LVPoint=70 Exp=2133400 Str=150 Dex=106 Vit=150 Energy=20 Leadership:0 Map=0 Pk=2
+[22:31:16] [fast][Tomi] Skill Save Complete. 0 44
+[22:31:16] [fast][Tomi] Skill Save Complete. 1 67
+[22:31:16] [fast][Tomi] Skill Save Complete. 2 68
+[22:31:16] [fast][Tomi] Skill Save Complete. 3 69
+[22:31:16] [fast][Tomi] Skill Save Complete. 4 70
+[22:31:16] [fast][Tomi] Skill Save Complete. 5 71
+[22:31:16] [fast][Tomi] Skill Save Complete. 6 72
+[22:31:16] [fast][Tomi] SI[0,Small Axe,0,0,0,0]serial:[0] dur:[16] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:31:16] [fast][Tomi] SI[1,Small Shield,0,0,0,0]serial:[0] dur:[21] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:31:16] [fast][Tomi] SI[10,Ring of GM,0,0,0,0]serial:[3004] dur:[255] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:31:16] [fast][Tomi] SI[12,Apple,0,0,0,0]serial:[6] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:31:16] [fast][Tomi] SI[13,Bone Pants,0,0,1,0]serial:[26] dur:[30] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:31:16] [fast][Tomi] SI[15,Transformation Ring,0,0,0,0]serial:[32] dur:[159] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:31:16] [fast][Tomi] SI[16,Apple,0,0,0,0]serial:[10] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:31:16] [fast][Tomi] SI[17,Pad Boots,0,0,1,0]serial:[31] dur:[28] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:31:16] [fast][Tomi] SI[19,Small Axe,1,0,0,0]serial:[35] dur:[19] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:31:16] [fast][Tomi] SI[23,Vine Gloves,0,0,0,0]serial:[33] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:31:16] [fast][Tomi] SI[37,Kris,0,0,0,0]serial:[3001] dur:[0] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:31:16] [fast][Tomi] SI[52,Transformation Ring,0,0,0,0]serial:[20] dur:[127] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:31:16] [fast][Tomi] CharInfoSave : Class=17 Level=221 LVPoint=245 Exp=110836000 Str=140 Dex=43 Vit=25 Energy=10 Leadership:0 Map=2 Pk=2
+[22:33:08] [fast][Tomi] Skill Save Complete. 0 44
+[22:33:08] [fast][Tomi] Skill Save Complete. 1 67
+[22:33:08] [fast][Tomi] Skill Save Complete. 2 68
+[22:33:08] [fast][Tomi] Skill Save Complete. 3 69
+[22:33:08] [fast][Tomi] Skill Save Complete. 4 70
+[22:33:08] [fast][Tomi] Skill Save Complete. 5 71
+[22:33:08] [fast][Tomi] Skill Save Complete. 6 72
+[22:33:08] [fast][Tomi] SI[0,Small Axe,0,0,0,0]serial:[0] dur:[16] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:08] [fast][Tomi] SI[1,Small Shield,0,0,0,0]serial:[0] dur:[21] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:08] [fast][Tomi] SI[10,Ring of GM,0,0,0,0]serial:[3004] dur:[255] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:08] [fast][Tomi] SI[12,Apple,0,0,0,0]serial:[6] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:08] [fast][Tomi] SI[13,Bone Pants,0,0,1,0]serial:[26] dur:[30] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:08] [fast][Tomi] SI[15,Transformation Ring,0,0,0,0]serial:[32] dur:[159] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:08] [fast][Tomi] SI[16,Apple,0,0,0,0]serial:[10] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:08] [fast][Tomi] SI[17,Pad Boots,0,0,1,0]serial:[31] dur:[28] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:08] [fast][Tomi] SI[19,Small Axe,1,0,0,0]serial:[35] dur:[19] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:08] [fast][Tomi] SI[23,Vine Gloves,0,0,0,0]serial:[33] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:08] [fast][Tomi] SI[37,Kris,0,0,0,0]serial:[3001] dur:[0] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:08] [fast][Tomi] SI[52,Transformation Ring,0,0,0,0]serial:[20] dur:[127] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:08] [fast][Tomi] CharInfoSave : Class=17 Level=221 LVPoint=246 Exp=110836000 Str=140 Dex=43 Vit=25 Energy=10 Leadership:0 Map=2 Pk=2
+[22:33:22] [fast][Tomi] Skill Save Complete. 0 44
+[22:33:22] [fast][Tomi] Skill Save Complete. 1 67
+[22:33:22] [fast][Tomi] Skill Save Complete. 2 68
+[22:33:22] [fast][Tomi] Skill Save Complete. 3 69
+[22:33:22] [fast][Tomi] Skill Save Complete. 4 70
+[22:33:22] [fast][Tomi] Skill Save Complete. 5 71
+[22:33:22] [fast][Tomi] Skill Save Complete. 6 72
+[22:33:22] [fast][Tomi] SI[0,Small Axe,0,0,0,0]serial:[0] dur:[16] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:22] [fast][Tomi] SI[1,Small Shield,0,0,0,0]serial:[0] dur:[21] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:22] [fast][Tomi] SI[10,Ring of GM,0,0,0,0]serial:[3004] dur:[255] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:22] [fast][Tomi] SI[12,Apple,0,0,0,0]serial:[6] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:22] [fast][Tomi] SI[13,Bone Pants,0,0,1,0]serial:[26] dur:[30] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:22] [fast][Tomi] SI[15,Transformation Ring,0,0,0,0]serial:[32] dur:[159] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:22] [fast][Tomi] SI[16,Apple,0,0,0,0]serial:[10] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:22] [fast][Tomi] SI[17,Pad Boots,0,0,1,0]serial:[31] dur:[28] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:22] [fast][Tomi] SI[19,Small Axe,1,0,0,0]serial:[35] dur:[19] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:22] [fast][Tomi] SI[23,Vine Gloves,0,0,0,0]serial:[33] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:22] [fast][Tomi] SI[37,Kris,0,0,0,0]serial:[3001] dur:[0] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:22] [fast][Tomi] SI[52,Transformation Ring,0,0,0,0]serial:[20] dur:[127] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:33:22] [fast][Tomi] CharInfoSave : Class=17 Level=221 LVPoint=246 Exp=110836000 Str=140 Dex=43 Vit=25 Energy=10 Leadership:0 Map=2 Pk=2
+[22:35:04] [XCZBO][XCZBO] SI[0,Small Axe,4,0,1,0]serial:[96] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:35:04] [XCZBO][XCZBO] SI[1,Short Sword,3,0,0,0]serial:[95] dur:[25] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:35:04] [XCZBO][XCZBO] SI[2,Leather Helm,1,0,0,0]serial:[82] dur:[31] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:35:04] [XCZBO][XCZBO] SI[3,Leather Armor,1,0,0,0]serial:[97] dur:[31] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:35:04] [XCZBO][XCZBO] SI[6,Leather Boots,3,0,1,0]serial:[94] dur:[33] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:35:04] [XCZBO][XCZBO] SW [0,Armor of Guardsman,0,0,0,0]serial:[67] dur:[0] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:35:04] [XCZBO][XCZBO] SW [7,Rena,3,0,0,0]serial:[46] dur:[2] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:35:04] [XCZBO][XCZBO] SW [15,Jewel of Life,0,0,0,0]serial:[92] dur:[1] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:39:29] [Idk288][Conqueror] SI[0,Small Axe,0,0,0,0]serial:[0] dur:[18] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:39:29] [Idk288][Conqueror] SI[1,Small Shield,0,0,0,0]serial:[0] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:39:29] [Idk288][Conqueror] CharInfoSave : Class=16 Level=1 LVPoint=0 Exp=0 Str=28 Dex=20 Vit=25 Energy=10 Leadership:0 Map=0 Pk=2
+[22:39:41] [XCZBO][XCZBO] SI[0,Small Axe,4,0,1,0]serial:[96] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:39:41] [XCZBO][XCZBO] SI[1,Short Sword,3,0,0,0]serial:[95] dur:[25] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:39:41] [XCZBO][XCZBO] SI[2,Leather Helm,1,0,0,0]serial:[82] dur:[31] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:39:41] [XCZBO][XCZBO] SI[3,Leather Armor,1,0,0,0]serial:[97] dur:[31] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:39:41] [XCZBO][XCZBO] SI[6,Leather Boots,3,0,1,0]serial:[94] dur:[33] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:39:41] [XCZBO][XCZBO] SI[16,Rena,3,0,0,0]serial:[98] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:39:41] [XCZBO][XCZBO] SI[17,Blood Bone,1,0,0,0]serial:[99] dur:[128] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:39:41] [XCZBO][XCZBO] CharInfoSave : Class=96 Level=72 LVPoint=21 Exp=4032800 Str=150 Dex=150 Vit=150 Energy=130 Leadership:0 Map=0 Pk=2
+[22:40:14] [fast][Tomi] SI[0,Small Axe,0,0,0,0]serial:[0] dur:[16] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:40:14] [fast][Tomi] SI[1,Small Shield,0,0,0,0]serial:[0] dur:[21] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:40:14] [fast][Tomi] SI[10,Ring of GM,0,0,0,0]serial:[3004] dur:[255] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:40:14] [fast][Tomi] SI[12,Apple,0,0,0,0]serial:[6] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:40:14] [fast][Tomi] SI[13,Bone Pants,0,0,1,0]serial:[26] dur:[30] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:40:14] [fast][Tomi] SI[15,Transformation Ring,0,0,0,0]serial:[32] dur:[159] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:40:14] [fast][Tomi] SI[16,Apple,0,0,0,0]serial:[10] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:40:14] [fast][Tomi] SI[17,Pad Boots,0,0,1,0]serial:[31] dur:[28] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:40:14] [fast][Tomi] SI[19,Small Axe,1,0,0,0]serial:[35] dur:[19] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:40:14] [fast][Tomi] SI[23,Vine Gloves,0,0,0,0]serial:[33] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:40:14] [fast][Tomi] SI[37,Kris,0,0,0,0]serial:[3001] dur:[0] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:40:14] [fast][Tomi] SI[52,Transformation Ring,0,0,0,0]serial:[20] dur:[127] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:40:14] [fast][Tomi] CharInfoSave : Class=17 Level=221 LVPoint=246 Exp=110836000 Str=140 Dex=43 Vit=25 Energy=10 Leadership:0 Map=0 Pk=2
+[22:47:13] [XCZBO][XCZBO] SI[2,Leather Helm,1,0,0,0]serial:[82] dur:[31] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:47:13] [XCZBO][XCZBO] SI[3,Leather Armor,1,0,0,0]serial:[97] dur:[31] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:47:13] [XCZBO][XCZBO] SI[6,Leather Boots,3,0,1,0]serial:[94] dur:[33] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:47:13] [XCZBO][XCZBO] SI[9,Pendant of Fire,0,0,0,0]serial:[103] dur:[50] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:47:13] [XCZBO][XCZBO] SW [0,Armor of Guardsman,0,0,0,0]serial:[67] dur:[0] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:47:13] [XCZBO][XCZBO] SW [7,Rena,3,0,0,0]serial:[46] dur:[2] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:47:13] [XCZBO][XCZBO] SW [15,Jewel of Life,0,0,0,0]serial:[92] dur:[1] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:47:13] [XCZBO][XCZBO] SW [23,Devil's Eye,1,0,0,0]serial:[105] dur:[1] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:47:13] [XCZBO][XCZBO] SW [31,Rena,3,0,0,0]serial:[98] dur:[1] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:47:13] [XCZBO][XCZBO] SW [39,Blood Bone,1,0,0,0]serial:[99] dur:[128] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:47:13] [XCZBO][XCZBO] SW [55,Blood Bone,1,0,0,0]serial:[104] dur:[128] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:47:31] [XCZBO][XCZBO] SI[2,Leather Helm,1,0,0,0]serial:[82] dur:[31] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:47:31] [XCZBO][XCZBO] SI[3,Leather Armor,1,0,0,0]serial:[97] dur:[31] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:47:31] [XCZBO][XCZBO] SI[6,Leather Boots,3,0,1,0]serial:[94] dur:[33] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:47:31] [XCZBO][XCZBO] SI[9,Pendant of Fire,0,0,0,0]serial:[103] dur:[50] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:47:31] [XCZBO][XCZBO] SW [0,Armor of Guardsman,0,0,0,0]serial:[67] dur:[0] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:47:31] [XCZBO][XCZBO] SW [7,Rena,3,0,0,0]serial:[46] dur:[2] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:47:31] [XCZBO][XCZBO] SW [15,Jewel of Life,0,0,0,0]serial:[92] dur:[1] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:47:31] [XCZBO][XCZBO] SW [23,Devil's Eye,1,0,0,0]serial:[105] dur:[1] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:47:31] [XCZBO][XCZBO] SW [31,Rena,3,0,0,0]serial:[98] dur:[1] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:47:31] [XCZBO][XCZBO] SW [39,Blood Bone,1,0,0,0]serial:[99] dur:[128] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:47:31] [XCZBO][XCZBO] SW [55,Blood Bone,1,0,0,0]serial:[104] dur:[128] Ex:[0,0,0,0,0,0,0] Set:[0] 380:[0] HO:[0,0] E:[0]
+[22:49:30] [Idk288][Conqueror] SI[0,Small Axe,0,0,0,0]serial:[0] dur:[18] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:49:30] [Idk288][Conqueror] SI[1,Small Shield,0,0,0,0]serial:[0] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:49:30] [Idk288][Conqueror] CharInfoSave : Class=16 Level=1 LVPoint=0 Exp=0 Str=28 Dex=20 Vit=25 Energy=10 Leadership:0 Map=0 Pk=2
+[22:49:42] [XCZBO][XCZBO] SI[2,Leather Helm,2,0,1,0]serial:[113] dur:[32] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:49:42] [XCZBO][XCZBO] SI[3,Leather Armor,1,0,0,0]serial:[97] dur:[31] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:49:42] [XCZBO][XCZBO] SI[6,Leather Boots,3,0,1,0]serial:[94] dur:[33] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:49:42] [XCZBO][XCZBO] SI[9,Pendant of Fire,0,0,0,0]serial:[103] dur:[50] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:49:42] [XCZBO][XCZBO] SI[16,Angelic Staff,0,0,1,0]serial:[112] dur:[38] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:49:42] [XCZBO][XCZBO] SI[20,Transformation Ring,0,0,0,0]serial:[114] dur:[108] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:49:42] [XCZBO][XCZBO] SI[34,Leather Helm,1,0,0,0]serial:[82] dur:[31] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:49:42] [XCZBO][XCZBO] CharInfoSave : Class=96 Level=85 LVPoint=21 Exp=6562080 Str=200 Dex=191 Vit=150 Energy=130 Leadership:0 Map=0 Pk=3
+[22:50:15] [fast][Tomi] SI[0,Small Axe,0,0,0,0]serial:[0] dur:[16] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:50:15] [fast][Tomi] SI[1,Small Shield,0,0,0,0]serial:[0] dur:[21] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:50:15] [fast][Tomi] SI[10,Ring of GM,0,0,0,0]serial:[3004] dur:[255] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:50:15] [fast][Tomi] SI[12,Apple,0,0,0,0]serial:[6] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:50:15] [fast][Tomi] SI[13,Bone Pants,0,0,1,0]serial:[26] dur:[30] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:50:15] [fast][Tomi] SI[15,Transformation Ring,0,0,0,0]serial:[32] dur:[159] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:50:15] [fast][Tomi] SI[16,Apple,0,0,0,0]serial:[10] dur:[1] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:50:15] [fast][Tomi] SI[17,Pad Boots,0,0,1,0]serial:[31] dur:[28] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:50:15] [fast][Tomi] SI[19,Small Axe,1,0,0,0]serial:[35] dur:[19] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:50:15] [fast][Tomi] SI[23,Vine Gloves,0,0,0,0]serial:[33] dur:[22] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:50:15] [fast][Tomi] SI[37,Kris,0,0,0,0]serial:[3001] dur:[0] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:50:15] [fast][Tomi] SI[52,Transformation Ring,0,0,0,0]serial:[20] dur:[127] Ex:[0,0,0,0,0,0,0] Set[0] 380:[0] HO:[0,0] E:[0]
+[22:50:15] [fast][Tomi] CharInfoSave : Class=17 Level=221 LVPoint=246 Exp=110836000 Str=140 Dex=43 Vit=25 Energy=10 Leadership:0 Map=0 Pk=2
+[22:54:04] [XCZBO][XCZBO] Skill Save Complete. 0 269
+[22:54:04] [XCZBO][XCZBO] Skill Save Complete. 1 67
+[22:54:04] [XCZBO][XCZBO] Skill Save Complete. 2 68
+[22:54:04] [XCZBO][XCZBO] Skill Save Complete. 3 69
+[22:54:04] [XCZBO][XCZBO] Skill Save Complete. 4 70
+[22:54:04] [XCZBO][XCZBO] Skill Save Complete. 5 71
+[22:54:04] [XCZBO][XCZBO] Skill Save Complete. 6 72
+[22:54:04] [XCZBO][XCZBO] Skill Save Complete. 7 19
+[22:54:04] [XCZBO][XCZBO] Skill Save Complete. 8 19
+[22:54:04] [Idk288][Conqueror] Skill Save Complete. 0 44
+[22:54:04] [Idk288][Conqueror] Skill Save Complete. 1 67
+[22:54:04] [Idk288][Conqueror] Skill Save Complete. 2 68
+[22:54:04] [Idk288][Conqueror] Skill Save Complete. 3 69
+[22:54:04] [Idk288][Conqueror] Skill Save Complete. 4 70
+[22:54:04] [Idk288][Conqueror] Skill Save Complete. 5 71
+[22:54:04] [Idk288][Conqueror] Skill Save Complete. 6 72
+[22:54:04] [fast][Tomi] Skill Save Complete. 0 44
+[22:54:04] [fast][Tomi] Skill Save Complete. 1 67
+[22:54:04] [fast][Tomi] Skill Save Complete. 2 68
+[22:54:04] [fast][Tomi] Skill Save Complete. 3 69
+[22:54:04] [fast][Tomi] Skill Save Complete. 4 70
+[22:54:04] [fast][Tomi] Skill Save Complete. 5 71
+[22:54:04] [fast][Tomi] Skill Save Complete. 6 72
